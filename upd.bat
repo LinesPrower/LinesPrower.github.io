@@ -1,3 +1,3 @@
 python sscait.py
-hg commit -m update
-hg push
+git commit -m update
+git push
