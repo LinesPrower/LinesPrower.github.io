@@ -53,7 +53,6 @@ def make_table():
     up_list = []
     up_div = soup.find('div', id='upcomingMatchesWrapper')
     for t in up_div.find_all('span'):
-        print(t.string)
         if 'vs.' in t.string:
             up_list.append(tuple(t.string.split(' vs. ')))
 
