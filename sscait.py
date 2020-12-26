@@ -40,7 +40,7 @@ table { border-collapse:collapse; border:1px solid gray; }
 td { border:1px solid gray; }
 </style></head>
 <body style="font-family:Ubuntu,Verdana; font-size: 12px;">
-<p>%d/%d games played.
+<p>%d/%d games played. Disclaimer: this crosstable is unofficial and for information purposes only. Visit the <a href="https://sscaitournament.com">SSCAIT website</a> for official results.</p>
 %s
 </body>
 </html>'''
