@@ -217,7 +217,7 @@ def make_table():
                       for i, b1 in enumerate([''] + bots))
     table = '<table>%s</table>' % table
     if upcoming0:
-        table = '<p>Upcoming matches: %s</p>\n%s' % (upcoming0, table)
+        table = '<p>Upcoming games: %s</p>\n%s' % (upcoming0, table)
     html = TEMPLATE % (n_games, 3080, table)
     outfile = 'sscait20.html'
     #outfile = 'C:/Projects/stuff/purplepie.bitbucket.org/sscait18.html'
