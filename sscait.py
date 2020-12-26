@@ -109,12 +109,15 @@ def make_table():
 
     con = connect()
     games = {}
-    for p1, p2, res, ts in con.execute('select * from games'):
+    for p1, p2, res, ts, _ in con.execute('select * from games'):
         games[ts] = (p1, p2, int(res))
 
     n_games = 0
     for entry in reslist.find_all('tr'):
         def extract(x):
+            refs = x.find_all('a', recursive=False)
+            if refs and refs[-1].string == 'watch':
+                return refs[-1]['href']
             if x.string:
                 return x.string
             return x.get_text()
@@ -126,10 +129,11 @@ def make_table():
         b2 = re.sub(r'\s*\(.*\)', '', data[1])
         game_res = int(data[2].split()[1])
         ts = data[4]
+        link = data[5]
         if not ts in games:
             games[ts] = (b1, b2, game_res)
             print('Added game: ', games[ts])
-            con.execute('insert into games values (?, ?, ?, ?)', (b1, b2, game_res, ts))
+            con.execute('insert into games values (?, ?, ?, ?, ?)', (b1, b2, game_res, ts, link))
 
     con.commit()
 
@@ -255,7 +259,7 @@ def import_games(fname):
         if not ts in games:
             games[ts] = (b1, b2, game_res)
             print('Added game: %s' % ts)
-            con.execute('insert into games values (?, ?, ?, ?)', (b1, b2, game_res, ts))
+            con.execute('insert into games values (?, ?, ?, ?, ?)', (b1, b2, game_res, ts, None))
             n_games += 1
 
     print('Added %d games' % n_games)
