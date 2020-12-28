@@ -255,7 +255,7 @@ def import_games(fname):
         b1 = x['host']
         b2 = x['guest']
         game_res = int(x['result'])
-        ts = datetime.datetime.fromtimestamp(int(x['timestamp']), tz).strftime('%Y-%m-%d %H:%M:%S')
+        ts = datetime.datetime. fromtimestamp(int(x['timestamp']), tz).strftime('%Y-%m-%d %H:%M:%S')
         if not ts in games:
             games[ts] = (b1, b2, game_res)
             print('Added game: %s' % ts)
@@ -265,11 +265,33 @@ def import_games(fname):
     print('Added %d games' % n_games)
     con.commit()
 
+def check_duplicates():
+    con = connect()
+    data = list(con.execute('select p1, p2, game_result, time_stamp, rowid from games order by p1, p2, game_result, time_stamp'))
+    old = None
+    old_t = None
+    old_id = None
+    reps = []
+    for entry in data:
+        cur = tuple(entry[:3])
+        ts = datetime.datetime.strptime(entry[3], '%Y-%m-%d %H:%M:%S')
+        if cur == old:
+            if (ts - old_t).total_seconds() < 60:
+                print('Repeated game: %s %s' % (old_id, old))
+                reps.append(old_id)
+        old = cur
+        old_t = ts
+        old_id = entry[4]
+    for dbid in reps:
+        con.execute('delete from games where rowid = ?', (dbid,))
+    con.commit()
+
 def main():
     #for i in range(1, 5):
     #	get_games_info(1180, i)
     #for i in range(1, 6):
     #    import_games('games%d.json' % i)
+    check_duplicates()
     load_page()
     make_table()
     # gen_strings()
