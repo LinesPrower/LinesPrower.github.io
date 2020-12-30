@@ -45,7 +45,7 @@ td { border:1px solid gray; text-align: center; }
 </body>
 </html>'''
 
-def make_table():
+def make_table(plain):
     with io.open('results.html', encoding='utf8') as f:
         s = f.read()
     soup = BeautifulSoup(s, "lxml")
@@ -202,54 +202,55 @@ def make_table():
                 cl = 'c%d%d' % (wins, loses)
                 content = '%d:%d' % (wins, loses)
 
-            def icon(name):
-                return f'<img src="{name}" height=20 width=20 />'
+            if not plain:
+                def icon(name):
+                    return '<img src="%s" height=20 width=20 />' % name
 
-            def epic_win(icon_name):
-                nonlocal content, title
-                content = icon(icon_name)
-                title += ', 2:0'
+                def epic_win(icon_name):
+                    nonlocal content, title
+                    content = icon(icon_name)
+                    title += ', 2:0'
 
-            def epic_lose(icon_name):
-                nonlocal content, title
-                content = icon(icon_name)
-                title += ', 0:2'
+                def epic_lose(icon_name):
+                    nonlocal content, title
+                    content = icon(icon_name)
+                    title += ', 0:2'
 
-            if b1 == 'Monster' and wins == 2:
-                epic_win('meat.svg')
-            elif b1 == 'Monster' and loses == 2:
-                epic_lose('knife.svg')
-            elif b1 == 'Stardust' and wins == 2:
-                epic_win('mushroom.svg')
-            elif b1 == 'Stardust' and loses == 2:
-                epic_lose('cheese.svg')
-            elif b1 == 'Hao Pan' and wins == 2:
-                epic_win('cheese.svg')
-            elif b1 == 'Hao Pan' and loses == 2:
-                epic_lose('shallow_pan.svg')
-            elif b1 == 'PurpleWave' and wins == 2:
-                epic_win('purple_heart.svg')
-            elif b1 == 'PurpleWave' and loses == 2:
-                epic_lose('eggplant.svg')
-            elif b1 == 'BananaBrain' and wins == 2:
-                epic_win('banana.svg')
-            elif b1 == 'BananaBrain' and loses == 2:
-                epic_lose('brain.svg')
-            elif b1 == 'Steamhammer' and wins == 2:
-                epic_win('hammer.svg')
-            elif b1 == 'Dragon' and wins == 2:
-                epic_win('dragon.svg')
-            elif b1 == 'McRaveZ' and wins == 2:
-                epic_lose('detective.svg')
-            elif b1 == 'McRaveZ' and loses == 2:
-                epic_lose('salt.svg')
-            elif b1 == 'StyxZ' and loses == 2:
-                epic_lose('bugs.png')
-            elif loses == 2:
-                epic_lose('skull_crossbones.svg')
-            elif wins == 1 and loses == 1:
-                content = icon('handshake.svg')
-                title += ', 1:1'
+                if b1 == 'Monster' and wins == 2:
+                    epic_win('meat.svg')
+                elif b1 == 'Monster' and loses == 2:
+                    epic_lose('knife.svg')
+                elif b1 == 'Stardust' and wins == 2:
+                    epic_win('mushroom.svg')
+                elif b1 == 'Stardust' and loses == 2:
+                    epic_lose('cheese.svg')
+                elif b1 == 'Hao Pan' and wins == 2:
+                    epic_win('cheese.svg')
+                elif b1 == 'Hao Pan' and loses == 2:
+                    epic_lose('shallow_pan.svg')
+                elif b1 == 'PurpleWave' and wins == 2:
+                    epic_win('purple_heart.svg')
+                elif b1 == 'PurpleWave' and loses == 2:
+                    epic_lose('eggplant.svg')
+                elif b1 == 'BananaBrain' and wins == 2:
+                    epic_win('banana.svg')
+                elif b1 == 'BananaBrain' and loses == 2:
+                    epic_lose('brain.svg')
+                elif b1 == 'Steamhammer' and wins == 2:
+                    epic_win('hammer.svg')
+                elif b1 == 'Dragon' and wins == 2:
+                    epic_win('dragon.svg')
+                elif b1 == 'McRaveZ' and wins == 2:
+                    epic_lose('detective.svg')
+                elif b1 == 'McRaveZ' and loses == 2:
+                    epic_lose('salt.svg')
+                elif b1 == 'StyxZ' and loses == 2:
+                    epic_lose('bugs.png')
+                elif loses == 2:
+                    epic_lose('skull_crossbones.svg')
+                elif wins == 1 and loses == 1:
+                    content = icon('handshake.svg')
+                    title += ', 1:1'
 
             if (b1, b2) in upcoming:
                 n = upcoming[(b1, b2)]
@@ -273,8 +274,12 @@ def make_table():
     table = '<table>%s</table>' % table
     if upcoming0:
         table = '<p>Upcoming games: %s</p>\n%s' % (upcoming0, table)
+    if plain:
+        table += '\n<p><a href="sscait20.html">Remastered edition</p>'
+    else:
+        table += '\n<p><a href="sscait20p.html">Plain version</p>'
     html = TEMPLATE % (n_games, 3080, table)
-    outfile = 'sscait20.html'
+    outfile = 'sscait20p.html' if plain else 'sscait20.html'
     #outfile = 'C:/Projects/stuff/purplepie.bitbucket.org/sscait18.html'
     with io.open(outfile, 'wt') as f:
         f.write(html)
@@ -344,7 +349,8 @@ def main():
     #    import_games('games%d.json' % i)
     check_duplicates()
     load_page()
-    make_table()
+    make_table(False)
+    make_table(True)
     # gen_strings()
     # get_stats()
 
