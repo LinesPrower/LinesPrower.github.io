@@ -37,7 +37,7 @@ TEMPLATE = '''<!DOCTYPE html>
 .cself {background-color:#7f7f7f;}
 .noqual {background-color:#cfcfcf;}
 table { border-collapse:collapse; border:1px solid gray; }
-td { border:1px solid gray; }
+td { border:1px solid gray; text-align: center; }
 </style></head>
 <body style="font-family:Ubuntu,Verdana; font-size: 12px;">
 <p>%d/%d games played. Disclaimer: this crosstable is unofficial and for information purposes only. Visit the <a href="https://sscaitournament.com">SSCAIT website</a> for official results.</p>
@@ -200,7 +200,7 @@ def make_table():
 
             if wins + loses > 0:
                 cl = 'c%d%d' % (wins, loses)
-                content = '%d/%d' % (wins, loses)
+                content = '%d:%d' % (wins, loses)
 
             def icon(name):
                 return f'<img src="{name}" height=20 width=20 />'
@@ -208,12 +208,12 @@ def make_table():
             def epic_win(icon_name):
                 nonlocal content, title
                 content = icon(icon_name)
-                title += ', 2/0'
+                title += ', 2:0'
 
             def epic_lose(icon_name):
                 nonlocal content, title
                 content = icon(icon_name)
-                title += ', 0/2'
+                title += ', 0:2'
 
             if b1 == 'Monster' and wins == 2:
                 epic_win('meat.svg')
@@ -249,7 +249,7 @@ def make_table():
                 epic_lose('skull_crossbones.svg')
             elif wins == 1 and loses == 1:
                 content = icon('handshake.svg')
-                title += ', 1/1'
+                title += ', 1:1'
 
             if (b1, b2) in upcoming:
                 n = upcoming[(b1, b2)]
