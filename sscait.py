@@ -231,7 +231,7 @@ def make_table(plain):
                 elif b1 == 'PurpleWave' and wins == 2:
                     epic_win('purple_heart.svg')
                 elif b1 == 'PurpleWave' and loses == 2:
-                    epic_lose('eggplant.svg')
+                    epic_lose('broken_heart.svg')
                 elif b1 == 'BananaBrain' and wins == 2:
                     epic_win('banana.svg')
                 elif b1 == 'BananaBrain' and loses == 2:
@@ -241,31 +241,49 @@ def make_table(plain):
                 elif b1 == 'Dragon' and wins == 2:
                     epic_win('dragon.svg')
                 elif b1 == 'McRaveZ' and wins == 2:
-                    epic_lose('detective.svg')
+                    epic_win('detective.svg')
                 elif b1 == 'McRaveZ' and loses == 2:
                     epic_lose('salt.svg')
                 elif b1 == 'StyxZ' and loses == 2:
                     epic_lose('bugs.png')
                 elif b1 == 'MadMixP' and wins == 2:
-                    epic_lose('crazy.svg')
+                    epic_win('crazy.svg')
                 elif b1 == 'MadMixP' and loses == 2:
                     epic_lose('brainfuck.svg')
                 elif b1 == 'EggBot' and wins == 2:
-                    epic_lose('egg.svg')
+                    epic_win('egg.svg')
+                elif b1 == 'EggBot' and loses == 2:
+                    epic_lose('omlette.png')
                 elif b1 == 'Ecgberht' and wins == 2:
-                    epic_lose('crown.svg')
+                    epic_win('crown.svg')
                 elif b1 == 'Tomas Vajda' and wins == 2:
-                    epic_lose('airplane.svg')
+                    epic_win('airplane.svg')
                 elif b1 == 'Tomas Vajda' and loses == 2:
                     epic_lose('boom.svg')
                 elif b1 == 'Microwave' and wins == 2:
-                    epic_lose('microwave.png')
+                    epic_win('microwave.png')
                 elif b1 == 'Microwave' and loses == 2:
                     epic_lose('boom.svg')
                 elif b1 == 'Iron bot' and wins == 2:
-                    epic_lose('iron.png')
+                    epic_win('iron.png')
                 elif b1 == 'Iron bot' and loses == 2:
                     epic_lose('boom.svg')
+                elif b1 == 'krasi0P' and wins == 2:
+                    epic_win('linux.svg')
+                elif b1 == 'krasi0P' and loses == 2:
+                    epic_lose('windows.png')
+                elif b1 == 'Andrew Smith' and wins == 2:
+                    epic_win('skynet.png')
+                elif b1 == 'Andrew Smith' and loses == 2:
+                    epic_lose('rubbish.svg')
+                elif b1 == 'Chris Coxe' and wins == 2:
+                    epic_win('timer.svg')
+                elif b1 == 'Aurelien Lermant' and wins == 2:
+                    epic_win('dollar.svg')
+                elif b1 == 'Junkbot' and wins == 2:
+                    epic_win('rubbish.svg')
+                elif b1 == 'CUBOT' and wins == 2:
+                    epic_win('ice_cube.svg')
                 elif loses == 2:
                     epic_lose('skull_crossbones.svg')
                 elif wins == 1 and loses == 1:
