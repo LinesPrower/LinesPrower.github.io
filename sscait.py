@@ -246,6 +246,26 @@ def make_table(plain):
                     epic_lose('salt.svg')
                 elif b1 == 'StyxZ' and loses == 2:
                     epic_lose('bugs.png')
+                elif b1 == 'MadMixP' and wins == 2:
+                    epic_lose('crazy.svg')
+                elif b1 == 'MadMixP' and loses == 2:
+                    epic_lose('brainfuck.svg')
+                elif b1 == 'EggBot' and wins == 2:
+                    epic_lose('egg.svg')
+                elif b1 == 'Ecgberht' and wins == 2:
+                    epic_lose('crown.svg')
+                elif b1 == 'Tomas Vajda' and wins == 2:
+                    epic_lose('airplane.svg')
+                elif b1 == 'Tomas Vajda' and loses == 2:
+                    epic_lose('boom.svg')
+                elif b1 == 'Microwave' and wins == 2:
+                    epic_lose('microwave.png')
+                elif b1 == 'Microwave' and loses == 2:
+                    epic_lose('boom.svg')
+                elif b1 == 'Iron bot' and wins == 2:
+                    epic_lose('iron.png')
+                elif b1 == 'Iron bot' and loses == 2:
+                    epic_lose('boom.svg')
                 elif loses == 2:
                     epic_lose('skull_crossbones.svg')
                 elif wins == 1 and loses == 1:
