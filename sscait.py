@@ -367,7 +367,7 @@ def check_duplicates():
     old_id = None
     reps = []
     for entry in data:
-        cur = tuple(entry[:3])
+        cur = tuple(entry[:2])
         ts = datetime.datetime.strptime(entry[3], '%Y-%m-%d %H:%M:%S')
         if cur == old:
             if (ts - old_t).total_seconds() < 90:
