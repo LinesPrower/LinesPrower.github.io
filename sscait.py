@@ -206,86 +206,103 @@ def make_table(plain):
                 def icon(name):
                     return '<img src="%s" height=20 width=20 />' % name
 
-                def epic_win(icon_name):
+                def use_icon(icon_name):
                     nonlocal content, title
                     content = icon(icon_name)
-                    title += ', 2:0'
-
-                def epic_lose(icon_name):
-                    nonlocal content, title
-                    content = icon(icon_name)
-                    title += ', 0:2'
+                    title += ', %d:%d' % (wins, loses)
 
                 if b1 == 'Monster' and wins == 2:
-                    epic_win('meat.svg')
+                    use_icon('meat.svg')
                 elif b1 == 'Monster' and loses == 2:
-                    epic_lose('knife.svg')
+                    use_icon('knife.svg')
                 elif b1 == 'Stardust' and wins == 2:
-                    epic_win('mushroom.svg')
+                    use_icon('mushroom.svg')
                 elif b1 == 'Stardust' and loses == 2:
-                    epic_lose('cheese.svg')
+                    use_icon('cheese.svg')
                 elif b1 == 'Hao Pan' and wins == 2:
-                    epic_win('cheese.svg')
+                    use_icon('cheese.svg')
                 elif b1 == 'Hao Pan' and loses == 2:
-                    epic_lose('shallow_pan.svg')
+                    use_icon('shallow_pan.svg')
                 elif b1 == 'PurpleWave' and wins == 2:
-                    epic_win('purple_heart.svg')
+                    use_icon('purple_heart.svg')
                 elif b1 == 'PurpleWave' and loses == 2:
-                    epic_lose('broken_heart.svg')
+                    use_icon('broken_heart.svg')
                 elif b1 == 'BananaBrain' and wins == 2:
-                    epic_win('banana.svg')
+                    use_icon('banana.svg')
                 elif b1 == 'BananaBrain' and loses == 2:
-                    epic_lose('brain.svg')
+                    use_icon('brain.svg')
                 elif b1 == 'Steamhammer' and wins == 2:
-                    epic_win('hammer.svg')
+                    use_icon('hammer.svg')
                 elif b1 == 'Dragon' and wins == 2:
-                    epic_win('dragon.svg')
+                    use_icon('dragon.svg')
                 elif b1 == 'McRaveZ' and wins == 2:
-                    epic_win('detective.svg')
+                    use_icon('detective.svg')
                 elif b1 == 'McRaveZ' and loses == 2:
-                    epic_lose('salt.svg')
+                    use_icon('salt.svg')
                 elif b1 == 'StyxZ' and loses == 2:
-                    epic_lose('bugs.png')
+                    use_icon('bugs.png')
                 elif b1 == 'MadMixP' and wins == 2:
-                    epic_win('crazy.svg')
+                    use_icon('crazy.svg')
                 elif b1 == 'MadMixP' and loses == 2:
-                    epic_lose('brainfuck.svg')
+                    use_icon('brainfuck.svg')
                 elif b1 == 'EggBot' and wins == 2:
-                    epic_win('egg.svg')
+                    use_icon('egg.svg')
                 elif b1 == 'EggBot' and loses == 2:
-                    epic_lose('omlette.png')
+                    use_icon('omlette.svg')
                 elif b1 == 'Ecgberht' and wins == 2:
-                    epic_win('crown.svg')
+                    use_icon('crown.svg')
                 elif b1 == 'Tomas Vajda' and wins == 2:
-                    epic_win('airplane.svg')
+                    use_icon('airplane.svg')
                 elif b1 == 'Tomas Vajda' and loses == 2:
-                    epic_lose('boom.svg')
+                    use_icon('boom.svg')
                 elif b1 == 'Microwave' and wins == 2:
-                    epic_win('microwave.png')
+                    use_icon('microwave.png')
                 elif b1 == 'Microwave' and loses == 2:
-                    epic_lose('boom.svg')
+                    use_icon('boom.svg')
                 elif b1 == 'Iron bot' and wins == 2:
-                    epic_win('iron.png')
-                elif b1 == 'Iron bot' and loses == 2:
-                    epic_lose('boom.svg')
+                    use_icon('iron.png')
                 elif b1 == 'krasi0P' and wins == 2:
-                    epic_win('linux.svg')
+                    use_icon('linux.svg')
                 elif b1 == 'krasi0P' and loses == 2:
-                    epic_lose('windows.png')
+                    use_icon('windows.png')
                 elif b1 == 'Andrew Smith' and wins == 2:
-                    epic_win('skynet.png')
+                    use_icon('skynet.png')
                 elif b1 == 'Andrew Smith' and loses == 2:
-                    epic_lose('rubbish.svg')
+                    use_icon('rubbish.svg')
                 elif b1 == 'Chris Coxe' and wins == 2:
-                    epic_win('timer.svg')
+                    use_icon('stopwatch.svg')
                 elif b1 == 'Aurelien Lermant' and wins == 2:
-                    epic_win('dollar.svg')
+                    use_icon('dollar.svg')
                 elif b1 == 'Junkbot' and wins == 2:
-                    epic_win('rubbish.svg')
+                    use_icon('rubbish.svg')
                 elif b1 == 'CUBOT' and wins == 2:
-                    epic_win('ice_cube.svg')
+                    use_icon('ice_cube.svg')
+                elif b1 == 'NiteKatT' and wins == 2:
+                    use_icon('black_cat.png')
+                elif b1 == 'BetaStar' and wins == 2:
+                    use_icon('milk.svg')
+                elif b1 == 'WillyT' and wins == 2:
+                    use_icon('pretzel.svg')
+                elif b1 == 'XIAOYICOG2019' and wins == 2:
+                    use_icon('mi.svg')
+                elif b1 == 'JumpyDoggoBot' and wins == 2:
+                    use_icon('dog.svg')
+                elif b1 == 'JumpyDoggoBot' and loses == 2:
+                    use_icon('hotdog.svg')
+                elif b1 == 'Marian Devecka' and wins == 2:
+                    use_icon('killer.png')
+                elif b1 == 'Proxy' and wins == 2:
+                    use_icon('microbe.svg')
+                elif b1 == 'TyrProtoss' and wins == 2:
+                    use_icon('cherries.svg')
+                elif b1 == 'WuliBot' and wins == 2:
+                    use_icon('watermelon.svg')
+                elif b1 == 'ICELab' and wins == 2:
+                    use_icon('ice_cream.svg')
+                elif b1 == 'ICELab' and loses == 2:
+                    use_icon('milk.svg')
                 elif loses == 2:
-                    epic_lose('skull_crossbones.svg')
+                    use_icon('potato.png')
                 elif wins == 1 and loses == 1:
                     content = icon('handshake.svg')
                     title += ', 1:1'
