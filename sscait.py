@@ -334,7 +334,8 @@ def make_table(plain):
         table += '\n<p><a href="sscait21.html">Remastered edition</p>'
     else:
         table += '\n<p><a href="sscait21p.html">Plain version</p>'
-    html = TEMPLATE % (n_games, 3080, table)
+    tot_games = len(bots) * (len(bots) - 1)
+    html = TEMPLATE % (n_games, tot_games, table)
     outfile = 'sscait21p.html' if plain else 'sscait21.html'
     #outfile = 'C:/Projects/stuff/purplepie.bitbucket.org/sscait18.html'
     with io.open(outfile, 'wt') as f:
