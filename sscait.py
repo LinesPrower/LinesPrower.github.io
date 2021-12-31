@@ -25,7 +25,7 @@ def connect():
 TEMPLATE = '''<!DOCTYPE html>
 <html>
 <head>
-<title>SSCAIT 2020/21 Crosstable</title>
+<title>SSCAIT 2021/22 Crosstable</title>
 <style type="text/css">
 .c20 {background-color:#3fff3f;}
 .c10 {background-color:#7fff7f;}
@@ -71,19 +71,20 @@ def make_table(plain):
 #        if b not in bots:
 #            bots.append(b)
 #    print(bots)
+#    print(len(bots))
 #    return
 
-    bots = [('Iron bot', 'Terran'), ('Ecgberht', 'Terran'), ('NLPRbot', 'Zerg'), ('PurpleWave', 'Protoss'), ('WillyT', 'Terran'),
-            ('Steamhammer', 'Zerg'), ('Florian Richoux', 'Protoss'), ('Dragon', 'Terran'), ('ICELab', 'Terran'), ('Monster', 'Zerg'),
-            ('Tomas Vajda', 'Protoss'), ('Dave Churchill', 'Random'), ('BetaStar', 'Protoss'), ('Hao Pan', 'Terran'), ('krasi0P', 'Protoss'),
-            ('Arrakhammer', 'Zerg'), ('MegaBot2017', 'Protoss'), ('XIAOYICOG2019', 'Terran'), ('KasoBot', 'Terran'), ('Stardust', 'Protoss'),
-            ('CUBOT', 'Zerg'), ('BananaBrain', 'Protoss'), ('MadMixP', 'Protoss'), ('TyrProtoss', 'Protoss'), ('Jakub Trancik', 'Protoss'),
-            ('Martin Rooijackers', 'Terran'), ('Sijia Xu', 'Zerg'), ('NiteKatT', 'Terran'), ('Matej Istenik', 'Terran'), ('Proxy', 'Zerg'),
-            ('Tomas Cere', 'Protoss'), ('WuliBot', 'Protoss'), ('NuiBot', 'Zerg'), ('Marian Devecka', 'Zerg'), ('Microwave', 'Zerg'),
-            ('AILien', 'Zerg'), ('McRaveZ', 'Zerg'), ('Marine Hell', 'Terran'), ('Yuanheng Zhu', 'Protoss'), ('Simplicity', 'Zerg'),
-            ('Bryan Weber', 'Zerg'), ('Flash', 'Protoss'), ('EggBot', 'Protoss'), ('Soeren Klett', 'Terran'), ('Slater', 'Protoss'),
-            ('Andrew Smith', 'Protoss'), ('Aurelien Lermant', 'Zerg'), ('ZurZurZur', 'Zerg'), ('KaonBot', 'Terran'), ('Andrey Kurdiumov', 'Random'),
-            ('Lukas Moravec', 'Protoss'), ('StyxZ', 'Zerg'), ('JumpyDoggoBot', 'Zerg'), ('Junkbot', 'Terran'), ('legacy', 'Random'), ('Chris Coxe', 'Zerg')]
+    bots = [('Yuanheng Zhu', 'Protoss'), ('Bryan Weber', 'Zerg'), ('Soeren Klett', 'Terran'), ('ICELab', 'Terran'), ('Marine Hell', 'Terran'),
+            ('BetaStar', 'Protoss'), ('Dragon', 'Terran'), ('Stardust', 'Protoss'), ('PurpleWave', 'Protoss'), ('Ecgberht', 'Terran'),
+            ('BananaBrain', 'Protoss'), ('MadMixP', 'Protoss'), ('Monster', 'Zerg'), ('Hao Pan', 'Terran'), ('NLPRbot', 'Zerg'),
+            ('krasi0P', 'Protoss'), ('Proxy', 'Zerg'), ('WuliBot', 'Protoss'), ('CUBOT', 'Zerg'), ('Andrew Smith', 'Protoss'),
+            ('Dave Churchill', 'Random'), ('Steamhammer', 'Zerg'), ('Tomas Vajda', 'Protoss'), ('JumpyDoggoBot', 'Zerg'), ('NuiBot', 'Zerg'),
+            ('Tomas Cere', 'Protoss'), ('TyrProtoss', 'Protoss'), ('Arrakhammer', 'Zerg'), ('Matej Istenik', 'Terran'), ('Martin Rooijackers', 'Terran'),
+            ('Sijia Xu', 'Zerg'), ('KaonBot', 'Terran'), ('Microwave', 'Zerg'), ('Iron bot', 'Terran'), ('XIAOYICOG2019', 'Terran'), ('WillyT', 'Terran'),
+            ('Florian Richoux', 'Protoss'), ('StyxZ', 'Zerg'), ('Pathos', 'Zerg'), ('Aurelien Lermant', 'Zerg'), ('insanitybot', 'Terran'),
+            ('legacy', 'Random'), ('Simplicity', 'Zerg'), ('McRaveZ', 'Zerg'), ('AILien', 'Zerg'), ('Chris Coxe', 'Zerg'), ('Flash', 'Protoss'),
+            ('ZurZurZur', 'Zerg'), ('NiteKatT', 'Terran'), ('Boris', 'Zerg'), ('Jakub Trancik', 'Protoss'), ('MegaBot2017', 'Protoss'),
+            ('KasoBot', 'Terran'), ('Lukas Moravec', 'Protoss'), ('Junkbot', 'Terran')]
 
     races = { b : r for b, r in bots }
     bots, _ = zip(*bots)
@@ -330,11 +331,11 @@ def make_table(plain):
     if upcoming0:
         table = '<p>Upcoming games: %s</p>\n%s' % (upcoming0, table)
     if plain:
-        table += '\n<p><a href="sscait20.html">Remastered edition</p>'
+        table += '\n<p><a href="sscait21.html">Remastered edition</p>'
     else:
-        table += '\n<p><a href="sscait20p.html">Plain version</p>'
+        table += '\n<p><a href="sscait21p.html">Plain version</p>'
     html = TEMPLATE % (n_games, 3080, table)
-    outfile = 'sscait20p.html' if plain else 'sscait20.html'
+    outfile = 'sscait21p.html' if plain else 'sscait21.html'
     #outfile = 'C:/Projects/stuff/purplepie.bitbucket.org/sscait18.html'
     with io.open(outfile, 'wt') as f:
         f.write(html)
