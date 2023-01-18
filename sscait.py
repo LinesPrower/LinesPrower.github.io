@@ -391,7 +391,7 @@ def check_duplicates():
         cur = tuple(entry[:2])
         ts = datetime.datetime.strptime(entry[3], '%Y-%m-%d %H:%M:%S')
         if cur == old:
-            if (ts - old_t).total_seconds() < 240:
+            if (ts - old_t).total_seconds() < 90:
                 print('Repeated game: %s %s' % (old_id, old))
                 reps.append(old_id)
         old = cur
