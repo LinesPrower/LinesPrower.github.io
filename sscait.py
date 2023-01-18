@@ -264,9 +264,9 @@ def make_table(plain):
                     use_icon('boom.svg')
                 elif b1 == 'Iron bot' and wins == 2:
                     use_icon('iron.png')
-                elif b1 == 'krasi0P' and wins == 2:
+                elif b1 == 'krasi0' and wins == 2:
                     use_icon('linux.svg')
-                elif b1 == 'krasi0P' and loses == 2:
+                elif b1 == 'krasi0' and loses == 2:
                     use_icon('windows.png')
                 elif b1 == 'Andrew Smith' and wins == 2:
                     use_icon('skynet.png')
