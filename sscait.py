@@ -239,9 +239,9 @@ def make_table(plain):
                 elif b1 == 'Dragon' and wins == 2:
                     use_icon('dragon.svg')
                 elif b1 == 'McRaveZ' and wins == 2:
-                    use_icon('detective.svg')
+                    use_icon('mcrave_win.webp')
                 elif b1 == 'McRaveZ' and loses == 2:
-                    use_icon('salt.svg')
+                    use_icon('mcrave_loss.webp')
                 elif b1 == 'StyxZ' and loses == 2:
                     use_icon('bugs.png')
                 elif b1 == 'MadMixP' and wins == 2:
