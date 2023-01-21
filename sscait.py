@@ -361,7 +361,7 @@ def import_games(fname):
 
     con = connect()
     games = {}
-    for p1, p2, res, ts in con.execute('select * from games'):
+    for p1, p2, res, ts, link in con.execute('select * from games'):
         games[ts] = (p1, p2, int(res))
 
     n_games = 0
@@ -403,8 +403,8 @@ def check_duplicates():
 
 def main():
     #for i in range(1, 5):
-    #	get_games_info(1180, i)
-    #for i in range(1, 6):
+    #    get_games_info(1180, i)
+    #for i in range(1, 5):
     #    import_games('games%d.json' % i)
     check_duplicates()
     load_page()
