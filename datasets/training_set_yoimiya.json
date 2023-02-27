@@ -1,0 +1,1889 @@
+[
+ {
+  "text": "Hanshirou: Phew! Many thanks, Miss Yoimiya. If you hadn't swapped me a fake just now, I'm sure I would have lost it."
+ },
+ {
+  "text": "Yoimiya: No worries! You put on quite the convincing performance!"
+ },
+ {
+  "text": "You: So the Vision they took was fake? Seems we were fooled, too... Ohh, so that's what's going on here! And to think Paimon was about to unleash Paimonial wrath on Miss Yoimiya... hehehe... sorry about that."
+ },
+ {
+  "text": "Yoimiya: Haha, ahh think nothing of it! I could tell from your reaction we were on the same side \u2014 you just didn't know it, y'know? Alright \u2014 allow me to introduce myself. I'm Yoimiya, the current owner of Naganohara Fireworks. It ain't much, but it's honest work, hehe. Great to meet ya!"
+ },
+ {
+  "text": "Hanshirou: Practically everyone in Hanamizaka knows Yoimiya. She's the \"Queen of the Summer Festival\"! Without her and her fireworks, summer on Narukami Island just wouldn't be same."
+ },
+ {
+  "text": "You: Whoa, that's quite the introduction! Paimon loves fireworks! It's nice to meet you."
+ },
+ {
+  "text": "Yoimiya: Hee-hee, stop it Hanshirou, you'll embarrass me! As for thanking me, you'd be better off thanking Master Masakatsu. He's the one that gave me the fake Visions in the first place. His handiwork allowed me to keep my own Vision. Whew, I can't even imagine trying to run business without it..."
+ },
+ {
+  "text": "Hanshirou: Yes, Master Masakatsu is a good man. It's too bad good people seldom get the recognition they deserve."
+ },
+ {
+  "text": "You: Master Masakatsu!?"
+ },
+ {
+  "text": "Yoimiya: Huh? Do you guys know him too?"
+ },
+ {
+  "text": "You: Miss Kamisato mentioned his name. We were just on our way to rescue him."
+ },
+ {
+  "text": "Yoimiya: You don't say! Then it sounds like the Shirasagi Himegimi has a plan... Awesome! I've been thinking about breaking him out too recently. But if I just marched straight in there by myself, I'd probably get Miss Kamisato in a whole heap of trouble, hehe... So... what about if I join you instead!?"
+ },
+ {
+  "text": "You: Sure! Welcome to the team! Ayaka told us to go look for help at a fireworks shop. She must have meant you!"
+ },
+ {
+  "text": "Yoimiya: Hee-hee, seems like I've finally got a new job to do! ...Y'know, besides hiding Vision bearers in my shop, that is... So, Master Masakatsu is being held at the Police Station. I've already surveyed the area and found a way in."
+ },
+ {
+  "text": "You: Whoa, talk about a reliable source. Seems we've got the right person on our team!"
+ },
+ {
+  "text": "Yoimiya: Not bad, huh? Hehe. Let's go as soon as everyone's ready. Don't worry Master Masakatsu, we're on our way!"
+ },
+ {
+  "text": "You: Uh... Now that we're inside, this place is a whole lot creepier than Paimon imagined... Eh-he..."
+ },
+ {
+  "text": "Yoimiya: C'mon, this way! As long as we stay quiet, we've got a good chance! I certainly wouldn't want to end up locked away in here... Let's find Master Masakatsu and get out of here. We should split up. I've got a \"little present\" to prepare for Master Masakatsu, hehe... I'll be right back."
+ },
+ {
+  "text": "You: You sure? Alright then... Just be careful not to get caught!"
+ },
+ {
+  "text": "Yoimiya: Yes, uh \u2014 you too!"
+ },
+ {
+  "text": "Masakatsu: ...Argh... No...!"
+ },
+ {
+  "text": "Yoimiya: Oh no... Those Tenryou Commission brutes are torturing him."
+ },
+ {
+  "text": "You: If we don't come up with a way to break him out fast, then... Eh!? Yoimiya, when did you get back here... We can only grit our teeth for now... We need to ensure we have a means of escape."
+ },
+ {
+  "text": "Yoimiya: Ugh... I can't bear to watch. If anything happens to Master Masakatsu, our whole plan will have been for nothing..."
+ },
+ {
+  "text": "You: Huh? Who's that?"
+ },
+ {
+  "text": "Yoimiya: That's Kujou Sara, adopted daughter of the Kujou Clan of the Tenryou Commission. She's also a general in the Shogun's Army. What's she doing here...?"
+ },
+ {
+  "text": "You: Whew, Paimon sure wouldn't want to get on her bad side..."
+ },
+ {
+  "text": "Yoimiya: Hey, this is our chance! Let's move while they aren't watching Master Masakatsu."
+ },
+ {
+  "text": "You: Yoimiya! Are you sure now's the right time!?"
+ },
+ {
+  "text": "Yoimiya: (stepping on the loose wood plank, unintentionally giving off the sound) Ah..."
+ },
+ {
+  "text": "You: The\u2014They're coming! Quick \u2014 hide!"
+ },
+ {
+  "text": "Yoimiya: Sorry sorry sorry! I didn't mean to..."
+ },
+ {
+  "text": "You: We're in trouble now. They'll find us for sure if we don't do something."
+ },
+ {
+  "text": "Yoimiya: Don't worry, I've got us covered. Time for my \"little present...\""
+ },
+ {
+  "text": "You: Whew, the fireworks were enough to distract them! Maybe more than enough, hehe..."
+ },
+ {
+  "text": "Yoimiya: Hehe, fireworks aren't just for festivals y'know."
+ },
+ {
+  "text": "You: Nice work! I knew we could count on you!"
+ },
+ {
+  "text": "Yoimiya: Hee-hee, I was particularly proud of this batch, I decided to\u2014"
+ },
+ {
+  "text": "You: Eh-he... Uh, Yoimiya... this is turning into a bit of a fireworks display, hehe..."
+ },
+ {
+  "text": "Yoimiya: Well... fireworks are my craft after all. Every batch has to be spectacular! Hee-hee..."
+ },
+ {
+  "text": "Masakatsu: Y\u2014Yoimiya? Is that you?"
+ },
+ {
+  "text": "Yoimiya: Master Masakatsu! Sorry we took so long... Ugh... those awful guards!"
+ },
+ {
+  "text": "You: C'mon, we've got no time to lose! They could be back any minute... Oh... You were over there watching us this whole time, weren't you?"
+ },
+ {
+  "text": "Kujou Sara: Yes. Leave, before I let my judgment get the better of me. He's in serious condition, be sure he gets immediate medical attention. But remember... Once he's recovered, it won't be long until I bring him right back."
+ },
+ {
+  "text": "Yoimiya: Uh, well... Ahem, you can bet we'll do all we can to keep that from happening."
+ },
+ {
+  "text": "Masakatsu: Yes... Finally, I've made it out of there..."
+ },
+ {
+  "text": "Yoimiya: Master Masakatsu \u2014 how do you feel? Can you hold on?"
+ },
+ {
+  "text": "Masakatsu: Don't worry, I think I can make it to the infirmary without keeling over."
+ },
+ {
+  "text": "Yoimiya: Thank you, all of you! I'll take him to get treated. I'll treat you to a round of drinks once this is all over!"
+ },
+ {
+  "text": "You: Ahem, why did you cut Paimon off earlier?"
+ },
+ {
+  "text": "Yoimiya: Because what he needs isn't an answer, just time."
+ },
+ {
+  "text": "Imatani Kaori: Well! If it isn't Yoimiya! Come on in, dear, come and take a seat. Are these two your friends?"
+ },
+ {
+  "text": "Yoimiya: Yes, they're travelers from afar. Outsiders have a very difficult time getting into Inazuma nowadays."
+ },
+ {
+  "text": "Imatani Saburou: Indeed, these are unprecedented times. But seeing as they came all this way, we locals should give them a warm welcome."
+ },
+ {
+  "text": "Yoimiya: Mm-hmm. Oh, before I forget \u2014 I brought the fireworks that you ordered."
+ },
+ {
+  "text": "Imatani Saburou: Oh, thank you, dear. Your family is so good to us, every year. First your father, and now you. I wonder if I'll still be alive to see the next heir of Naganohara Fireworks."
+ },
+ {
+  "text": "Yoimiya: Of course you will, you're both in great health! Don't say things like that, it's bad luck."
+ },
+ {
+  "text": "Imatani Kaori: *sigh* We aren't as young as we once were, though. The body knows it. It used to be that I could spend all day working the land, carrying water back and forth, but now, even a moment of light work leaves me with all sorts of aches and pains. I wanted to do some weeding yesterday, but as soon as I bent down to get started, I suddenly felt that if I went any further, I wouldn't be able to get back up again."
+ },
+ {
+  "text": "Yoimiya: No worries, say no more \u2014 we'll handle it!"
+ },
+ {
+  "text": "Imatani Saburou: No, no, no, we can't be putting you to work when you're a guest in our home. I'll just go fetch the tea and some snacks, and then we'll continue our conversation."
+ },
+ {
+  "text": "Yoimiya: It's fine, it's not like it's the first time I've helped you with chores. I just haven't had much time recently with the fireworks show coming up \u2014 but once that's outta the way, I'll be sure to come by more often."
+ },
+ {
+  "text": "You: It's no trouble, really. We don't mind helping."
+ },
+ {
+  "text": "Imatani Kaori: *sigh* You're such good kids... As for mine, he's all grown up now, hasn't found anyone yet, and he doesn't visit very often. If you're quite sure it's no trouble, then... I have some pickled radish here, would you mind delivering it to Satoru on the other side of the village?"
+ },
+ {
+  "text": "Yoimiya: Sure, it won't take us a moment. The old folks aren't very mobile, so c'mon, let's help them out. We'll get rid of the weeds first and then deliver the pickled radish."
+ },
+ {
+  "text": "Yoimiya:  You've finished already? Hehe, Mrs. Imatani will be really pleased. Let's take the pickled radish to Satoru. He's over on the other side of the village."
+ },
+ {
+  "text": "Yoimiya:  Yeah, you got it. And that should just about do it. Satoru is on the other side of the village, let's go see him now."
+ },
+ {
+  "text": "Yoimiya: Hey, Satoru, how have you been? Keeping well?"
+ },
+ {
+  "text": "Satoru: Same as usual, not much has changed. You're looking full of life, as always."
+ },
+ {
+  "text": "Yoimiya: All thanks to the support of our loyal customers. The family business just keeps getting better and better. We sold some fireworks to Liyue a while back, and word is they were a real hit. So it looks like we'll be getting more business from over there in the future."
+ },
+ {
+  "text": "Satoru: That must mean a lot more work for you though? Are you sure you and Mr. Ryuunosuke can manage? If it gets too much, don't forget you can always ask me for help. Hmm?"
+ },
+ {
+  "text": "Yoimiya: We should be fine. I think we can cope. Oh yeah, um, this is some Pickled Radish from Mrs. Imatani."
+ },
+ {
+  "text": "Satoru: Wow, thank you so much! I never used to be a fan of Pickled Radish, would you believe. But then I tried some of Mrs. Imatani's homemade stuff, and I couldn't get enough of it. It's a family staple now."
+ },
+ {
+  "text": "Yoimiya: Speaking of your family, how is everyone doing?"
+ },
+ {
+  "text": "Satoru: They're doing well. We have the occasional heated argument, but... I guess that's every family ever. Being close to family is better than never getting to see them, even if it does mean putting up with some conflict. Now, Mr. and Mrs. Imatani seem to have a great relationship \u2014 but still, they must get lonely with their child never visiting."
+ },
+ {
+  "text": "Yoimiya: Huh, they didn't seem that way to me. I think they're just used to it. You make a good point though. I should drop by more often in the future. That way, they won't get so bored."
+ },
+ {
+  "text": "Satoru: I'm sure they'd love that \u2014 as would all of us in Konda Village. You're always welcome here."
+ },
+ {
+  "text": "Yoimiya: Hee-hee, thank you."
+ },
+ {
+  "text": "Yoimiya: Now that we've finished all the chores, it's time to talk to the Imatanis about Sakujirou."
+ },
+ {
+  "text": "Imatani Kaori: That was quick! Ah, young people are so handy."
+ },
+ {
+  "text": "Yoimiya: Younger people have bundles of energy, and older people have a wealth of wisdom. Each have their strengths."
+ },
+ {
+  "text": "Imatani Kaori: 50 years... In some ways, it's a long time, in others, it's no time at all. Really, it's just a number. But 50 years of being together... now that is something worth commemorating."
+ },
+ {
+  "text": "Yoimiya: I had no idea it was your 50th anniversary. If I'd known, I would've made some extra-fancy fireworks, just for you."
+ },
+ {
+  "text": "Imatani Saburou: Enough about us, though. Yoimiya, aren't you busy with the fireworks show coming up? Was there something you needed to discuss?"
+ },
+ {
+  "text": "Yoimiya: Yeah, um... it's a difficult thing to talk about, but here goes..."
+ },
+ {
+  "text": "Imatani Saburou: Hmm... Sakujirou... so, he came back."
+ },
+ {
+  "text": "Yoimiya: Huh? You know him?"
+ },
+ {
+  "text": "Imatani Kaori: He was our boy's best friend when they were young. *sigh* They were inseparable. They grew up together, shared everything with each other, and went everywhere together. But one day, they had a terrible argument..."
+ },
+ {
+  "text": "Imatani Saburou: Sakujirou seemed to feel that Inazuma was too peaceful, and wanted to see what the outside world was like. But our Keisuke took after his father and mother. He felt that there was nothing wrong at all with being peaceful. You know what children are like, they get terribly worked up about these sorts of things. In the end, Sakujirou stormed off, and that was that."
+ },
+ {
+  "text": "Yoimiya: I see..."
+ },
+ {
+  "text": "You: What a strange coincidence. Who'd have thought..."
+ },
+ {
+  "text": "Yoimiya: I understand now. When I asked Sakujirou why he came back, he just said \"because of past mistakes\" and wasn't willing to elaborate. Now, I finally understand why he can't decide what to do."
+ },
+ {
+  "text": "You: Two best buddies in childhood... one grows up to join the Tenryou Commission, the other grows up to join the Tenryou Commission's most wanted list... I guess this is fate. I never would have imagined it either."
+ },
+ {
+  "text": "Yoimiya: Well, no worries, if that's the case then never mind. We can find some other way to help Sakujirou, there's no need to make things difficult for you. This sounds like something for Sakujirou and Keisuke to resolve between themselves."
+ },
+ {
+  "text": "Yoimiya: *sigh* Well, can't say we didn't try. I'll let Sakujirou know after we get back."
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Yoimiya, something bad's happened! Some people from the Tenryou Commission came by."
+ },
+ {
+  "text": "Yoimiya: Huh? Why? ... Do they know? Pops, are you alright? They didn't do anything to you, did they?"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: I told them the show was starting soon and the place was filled with fireworks, so they shouldn't go in because it's a fire hazard. But they didn't listen. It seemed like they knew Sakujirou was inside. Luckily, Sakujirou heard them coming in time and managed to escape through the window. The Tenryou Commission wasn't able to capture him."
+ },
+ {
+  "text": "Yoimiya: This is bad news. I don't think Sakujirou had enough time to make his mind up... Pops, did you see where he went? The Tenryou Commission will definitely be chasing after him."
+ },
+ {
+  "text": "You: Did you catch any of their names?"
+ },
+ {
+  "text": "Yoimiya: Good point! Names, we need names! Suddenly showing up like this, surely it must be Keisuke's doing! The Commission wouldn't normally cause this big of a fuss over a stowaway."
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Sorry, my ears are no good, and I didn't get a good look at them either. If you're wondering which way they went, they left the city. I wish I caught their names... *sigh* But I didn't hear a thing..."
+ },
+ {
+  "text": "Morihiko: As it happens, I did. I was getting some ore from my friend's place and happened to bump into them on the way over. I think their leader's name was Keisuke, just like you said."
+ },
+ {
+  "text": "Yoimiya: Just as I thought! Thanks! If Sakujirou still hasn't made up his mind, those two running into each other won't solve anything \u2014 and even worse, there'll be no coming back from it for Sakujirou. We can't let that happen. Come with me, Traveler, let's track them down!"
+ },
+ {
+  "text": "Matsuzaka: Yoimiya, don't be sad. Um... I... oh, I know, lemme tell you something that'll cheer you up! Yesterday, I won three beetle fights in a row against that guy with the horns on his head!"
+ },
+ {
+  "text": "Yoimiya: Wow, Matsuzaka, nice work! It's not easy to beat Itto..."
+ },
+ {
+  "text": "Saika: Don't worry, Yoimiya, maybe you can't light fireworks during the Irodori Festival, but there are still lots of other fun things to do!"
+ },
+ {
+  "text": "Yoimiya: I know... Thanks, you guys, it's just that fireworks are banned in the city for a few days. I'm not that upset, really."
+ },
+ {
+  "text": "Iwao: Yoimiya, it's me! I wanna introduce you to a new friend. An outlander girl, I just met her... Wait, what's your name again?"
+ },
+ {
+  "text": "Klee: Klee, my name is Klee."
+ },
+ {
+  "text": "Yoimiya: Nice to meet you, Klee. I'm Yoimiya, and I run Naganohara Fireworks."
+ },
+ {
+  "text": "Klee: Um... hello..."
+ },
+ {
+  "text": "Yoimiya: I love the cute outfit, with the hat, and that cool little symbol, so unique. And your backpack \u2014 wow, it's really well-made."
+ },
+ {
+  "text": "Klee: That's a four-leaf clover. Mom and Master Jean said it can bring me good luck."
+ },
+ {
+  "text": "Yoimiya: Really? That's awesome. I bet everyone would love one of those. Also, that little fairy on your backpack is super cute, too."
+ },
+ {
+  "text": "Klee: That's Dodoco, my best friend. We always go fish blasting together in Starfell Lake."
+ },
+ {
+  "text": "Yoimiya: Oh, Dodoco? What an interesting name. I really like it."
+ },
+ {
+  "text": "Klee: Yep. My mom says that when a Dodoco is born, it rides the wind and goes off on a big adventure."
+ },
+ {
+  "text": "Yoimiya: \"Ride the wind and go off on a big adventure.\" Klee, your mom sounds like a very cool person."
+ },
+ {
+  "text": "Klee: Yep! My mom is the best and most awesome person ever. And, Yoimiya, Iwao was right. You're a really cool person, too."
+ },
+ {
+  "text": "Yoimiya: Hehe, thanks, Klee, I feel like we really get each other. We'll be great friends, I'm sure of it."
+ },
+ {
+  "text": "You: It's so heartwarming watching these two chat away."
+ },
+ {
+  "text": "Yoimiya: Hey, Klee, since you like four-leaf clovers so much, why don't I make a firework with a four-leaf clover pattern and set it off for you?"
+ },
+ {
+  "text": "Klee: Yeah! And after the fireworks, we can go fish blasting with Dodoco."
+ },
+ {
+  "text": "You: Uh, hold on a second, fish blasting? No way, Albedo was pretty clear about that. No explosions allowed."
+ },
+ {
+  "text": "Yoimiya: Oops. I got so excited that I completely forgot about that. The folks from the Yashiro Commission specifically warned me that no fireworks are allowed in Inazuma during the Irodori Festival."
+ },
+ {
+  "text": "Klee: What? It's not allowed? But, awww... okay then."
+ },
+ {
+  "text": "You: Hey, come on, you just made a new friend, this is a happy occasion. Why are you suddenly so upset? Don't be sad. Yeah, we still have loads of things we can do! Let's go check out the Irodori Festival. Right. Just like Saika said, there are lots of fun things to do."
+ },
+ {
+  "text": "Yoimiya: What do you say, Klee? Sounds like the Irodori Festival could be a real blast!"
+ },
+ {
+  "text": "Yoimiya: \"Outlander Brigade: When the Wind of Death Blew Towards the Blond Samurai\"...? What a long name... Must be a new one, I've never heard of it."
+ },
+ {
+  "text": "Kayabuki Ikkei: Absolutely not. I would never allow such clich\u00e9s in one of my novels. This is a book about betrayal, blood, and tears! A long and lonely struggle! A stubborn samurai's path to the truth! This is the kind of story that needs to be told."
+ },
+ {
+  "text": "Yoimiya: Oh... is that right? Well, I'm not sure that's a very suitable story for Klee. Um... we might keep looking around."
+ },
+ {
+  "text": "Klee: Flowers for Princess Fischl... Oh, look, it's Fischl's story."
+ },
+ {
+  "text": "Yoimiya: That's right, Flowers for Princess Fischl. Have you read this book before, Klee?"
+ },
+ {
+  "text": "Klee: Nope. But I know Fischl's story. Fischl always hangs out with Oz. Everyone in the Adventurers' Guild knows, it's just like how me and Dodoco are always together. I wonder if... Dodoco is getting bored now?"
+ },
+ {
+  "text": "Yoimiya: Klee, I'm afraid it can't be helped. There are a lot of flammable items at the festival, and we have to be careful not to start a fire."
+ },
+ {
+  "text": "You: Darn, it seems like even the Irodori Festival can't cheer Klee and Yoimiya up. Hmm... there must be plenty of things you can do with Dodoco besides lighting fireworks and going fish blasting."
+ },
+ {
+  "text": "Yoimiya: Yeah! Like, um... uh..."
+ },
+ {
+  "text": "You: Like painting. Like writing a story."
+ },
+ {
+  "text": "Yoimiya: Wait, so that's what you're suggesting?"
+ },
+ {
+  "text": "You: Yeah, the Irodori Festival is the perfect occasion for storytelling. That's right! The Irodori Festival is a place for putting your work on display. You could show Dodoco's story for everyone here... Think of it like Dodoco playing with everybody. Bingo! What do you think of that idea, Klee?"
+ },
+ {
+  "text": "Klee: Mr. Albedo taught me how to paint! I can paint the story of Dodoco's adventure in Inazuma!"
+ },
+ {
+  "text": "Yoimiya: That's very imaginative. I think it's a great idea! Hehe, we can even put the finished story on display at the festival."
+ },
+ {
+  "text": "Klee: Yay, great! Dodoco will be so happy."
+ },
+ {
+  "text": "Yoimiya: Perfect. Okay, so I have some paper, paintbrushes, and paint at the shop. Let's go to the shop and paint your story there."
+ },
+ {
+  "text": "Yoimiya: Traveler, Klee and I just had a discussion, and we've decided..."
+ },
+ {
+  "text": "Klee: We're gonna keep the content of this story a secret from you guys for now."
+ },
+ {
+  "text": "You: ...Why?"
+ },
+ {
+  "text": "Yoimiya: Ugh, obviously I can't tell you why, or... You'll see, don't worry. You can keep exploring the festival while we're busy in the shop. We'll be here when you get back."
+ },
+ {
+  "text": "Yoimiya: So. What does Dodoco do after getting to Inazuma?"
+ },
+ {
+  "text": "Klee: Um, Dodoco goes to eat Tri-Flavored Skewers, Tonkotsu Ramen, and Egg Rolls."
+ },
+ {
+  "text": "Yoimiya: Ooh, that sounds great. Is that what you're painting? It looks beautiful! Once you're done painting, let's go get it printed. We'll print a whole bunch of copies and go hand them out at the festival. Hmm, although it'll cost a lot of Mora to get it printed. Let me see if I've got enough saved up..."
+ },
+ {
+  "text": "Klee: It's okay, Yoimiya, I have some Mora! Look!"
+ },
+ {
+  "text": "Yoimiya: 50 Mora is probably not quite enough... Well, if we don't have enough, we can ask Traveler for ideas."
+ },
+ {
+  "text": "Klee: Mr. Honorary Knight has helped a lot already. I don't wanna trouble him. So I think I should just go fish blasting to earn some Mora."
+ },
+ {
+  "text": "Yoimiya: No fish blasting! Paimon and Traveler said so."
+ },
+ {
+  "text": "Klee: Oh... then we've got no choice. We'll have to go see Mr. Albedo."
+ },
+ {
+  "text": "Yoimiya: Who's Mr. Albedo?"
+ },
+ {
+  "text": "Klee: He's my older brother. He's super-duper smart, he can do anything! And he knows how to paint, too. He paints hilichurls, Kaeya, and even Dodoco. That's why he came to Inazuma this time, to do paintings for everyone."
+ },
+ {
+  "text": "Yoimiya: Is that right? Then I guess Mr. Albedo must be an artist working with the Yae Publishing House."
+ },
+ {
+  "text": "Klee: An artist? Oh, that means he has two jobs... One as an alchemy-ist, teaching Sucrose alchemy, and the other as an artist, doing paintings for people. Yoimiya, lemme show you something. Mr. Albedo taught me you can paint Dodoco's color like this..."
+ },
+ {
+  "text": "Yoimiya: Wow, I can see the resemblance. Alright, I'll paint the streets, and Klee, you fill in Dodoco's colors. ...Hey, you can even write the story over here to explain what's happening in the painting."
+ },
+ {
+  "text": "Klee: Okay! Let's write this..."
+ },
+ {
+  "text": "Yoimiya: Oh..."
+ },
+ {
+  "text": "Yoimiya: Dodoco sure had a lot of fun in Inazuma!"
+ },
+ {
+  "text": "You: Those two sound like they really did go on an adventure with Dodoco. They couldn't be happier."
+ },
+ {
+  "text": "Yoimiya: Now we have to get Dodoco's story printed. C'mon, let's go to the Yae Publishing House."
+ },
+ {
+  "text": "Yoimiya: Here we are. This is the Yae Publishing House."
+ },
+ {
+  "text": "Aratani: Dodoco? Oh, so you've been writing a story, huh? Is Dodoco the main character?"
+ },
+ {
+  "text": "Yoimiya: Not only that, Dodoco is also real. Look!"
+ },
+ {
+  "text": "Klee: *sobbing*"
+ },
+ {
+  "text": "Yoimiya: Aw Klee, don't be upset. You still have me and Traveler. We'll think of something!"
+ },
+ {
+  "text": "You: Yeah, we'll find a way."
+ },
+ {
+  "text": "Yoimiya: Um, Miss Aratani, is there any way at all we can still get this printed? We can pay extra! And if you're short on staff to help with the printing, I can pitch in!"
+ },
+ {
+  "text": "Aratani: Miss Yoimiya, I understand your sentiment, but I'm afraid it's not as simple as that. We've been printing many people's personal works for this festival, and a lot of the books are already well behind schedule. The printing press is already working overtime to try and catch up. At a time like this, we really can't squeeze any more jobs in."
+ },
+ {
+  "text": "You: What do we do? Seems like we might have to give up on this idea..."
+ },
+ {
+  "text": "Yoimiya: No, I won't let that happen. I remember this one time when I was little, pops said he'd take me to the festival, but he was so busy with work that he forgot all about it. I waited and waited, and kept wondering when pops was finally gonna take me there. Eventually, people started coming home from the festival... That night, I cried miserably. To this day, I still remember how sad I felt. I don't want Klee to feel the same way. If we can't get it printed, then we'll just have to find our own way! I can paint. Over the next few days, I'll paint as many as I can, then we'll take those to the festival!"
+ },
+ {
+  "text": "Yae Miko: It's okay, I know. You were just following the rules. Plus, we really are quite behind schedule with the printing. But our mission at Yae Publishing House is to brings dreams and happiness to the masses. It would be a crying shame if we couldn't even help one adorable little girl fulfill her wish. Let me think... Oh, I know! Yoimiya, little girl, you can print your book, but on one condition. Okay?"
+ },
+ {
+  "text": "Yoimiya: Of course, Lady Guuji. Just tell us. Whatever this condition is, I am ready to face it."
+ },
+ {
+  "text": "Yae Miko: Dear me, it's nothing that horrendous. You make it sound like I'm some sort of wicked witch. All I mean is, if you want to get your work printed now, there is only one way: You have to combine it with another print. However, there is only a small amount of space remaining in the book in question. Your book is too big, so you have to reduce it to about half the size to make it fit. Is this a sacrifice that you are willing to make?"
+ },
+ {
+  "text": "Yoimiya: Klee, Lady Guuji is saying that we can print the book if we shrink it to half the size. Are you okay with that?"
+ },
+ {
+  "text": "Yae Miko: No problem. Just think of it as my greeting gift for little Klee. Besides, the Yae Publishing House will need your help with the illustrations again next time, Mr. Calx. You could also consider it as my investment in you. Alright, I won't disturb you two any longer. Bye-bye, now."
+ },
+ {
+  "text": "Yoimiya: Yay! Everything worked out perfectly. Now we just need to wait for an update from the Yae Publishing House."
+ },
+ {
+  "text": "Albedo: Yoimiya, Traveler, thank you for keeping Klee so exceptionally well entertained for me."
+ },
+ {
+  "text": "Yoimiya: Hehe, no worries!"
+ },
+ {
+  "text": "You: Now we can finally see what secrets Klee and Yoimiya were keeping from us."
+ },
+ {
+  "text": "Yoimiya: It's really nothing that exciting."
+ },
+ {
+  "text": "Klee: It's the story of Dodoco and me..."
+ },
+ {
+  "text": "Yoimiya: And me... And you guys."
+ },
+ {
+  "text": "You: You put me in the story? You put me and Paimon in the story? Paimon's in the story, too! This is Paimon's first time featuring in a printed book. Woohoo, Paimon's gonna be famous!"
+ },
+ {
+  "text": "Yoimiya: Of course we included Paimon. This is the story of everyone's big, happy adventure with Dodoco."
+ },
+ {
+  "text": "Klee: This story is me and Yoimiya's gift for Mr. Honorary Knight."
+ },
+ {
+  "text": "Aratani: Lady Yae wanted me to inform you that since this book was printed together with another work, there are many more copies than you may have anticipated. We won't charge you a printing fee, but in exchange, the extra copies of your book will be included as a free gift with purchases of the other book. Is that okay with you?"
+ },
+ {
+  "text": "Yoimiya: Oh, are you sure? It's fine by us, but what does the author of the book think..."
+ },
+ {
+  "text": "Aratani: Actually, the book that yours was printed with is called the \"Teyvat Travel Guide.\""
+ },
+ {
+  "text": "Klee: Hey! That's Mommy's book!"
+ },
+ {
+  "text": "Yoimiya: So Klee's mother is a writer? Huh."
+ },
+ {
+  "text": "Aratani: Klee's mother, Alice, is a renowned adventurer in Teyvat, and the Inazuma Edition of her popular \"Teyvat Travel Guide\" series is set to be released imminently. Lady Yae has already decided on how to promote it: \"A joint endeavor by Teyvat's biggest and best mother-daughter adventure duo.\" It's sure to be a huge hit."
+ },
+ {
+  "text": "You: Hmph, Paimon knew it! Miko would never do anything for free..."
+ },
+ {
+  "text": "Yoimiya: Hehe, a typical move by Lady Yae. It works out well for everybody, doesn't it?"
+ },
+ {
+  "text": "Yoimiya: Good evening, you guys are here just on time! It's the perfect time to watch fireworks!"
+ },
+ {
+  "text": "You: Yoimiya\u2014!"
+ },
+ {
+  "text": "Yoimiya: Hmm? What is it?"
+ },
+ {
+  "text": "Yoimiya: Oh yeah, if it's fine with you, can I ask how you two first met?"
+ },
+ {
+  "text": "You: He saved me from drowning this one time, and after that we started traveling together... Why do you ask?"
+ },
+ {
+  "text": "Yoimiya: Oh, nothing... I'm just quite envious of your relationship. If my pops had a person like you around, his being deaf wouldn't hold things up all the time. ...Huh? Why do you look so excited?"
+ },
+ {
+  "text": "Yoimiya:  Kouichi! I'm here, how is the boat coming along?"
+ },
+ {
+  "text": "Kouichi: Yeah, it's... alright, I guess. Um, I was questioned though... Wait, wait. Should we really be talking about this in front of them?"
+ },
+ {
+  "text": "Yoimiya: Oh, don't worry, they're my friends, you can trust them! They came with me to check up on the boat."
+ },
+ {
+  "text": "Kouichi: Because of the Sakoku Decree. The Tenryou Commission is really suspicious of any kind of seaborne vessel. Even the smallest ones \u2014 they'll stop and interrogate us, demanding to know what we plan on doing with it. It's a real nuisance."
+ },
+ {
+  "text": "Yoimiya: I understand. I'm sorry for dragging you into this mess..."
+ },
+ {
+  "text": "Kouichi: Haha, don't be silly. I'm actually happy that you came to me for help. I've always come to you for fireworks, and again this time \u2014 so just consider this my way of saying thank you. Right, I'll go fetch the boat now. I should be back shortly."
+ },
+ {
+  "text": "Yoimiya: Thank you! If it's on the way, you can always pick up your fireworks from my house. Everything was made in strict accordance with what was on the paper slip, you won't find the slightest thing wrong with them."
+ },
+ {
+  "text": "Kouichi: Alright then. The fireworks show will be starting soon, won't it \u2014 you should make sure your new friends get to see it. It's an Inazuman tradition, after all."
+ },
+ {
+  "text": "Yoimiya: Yep, that's the plan! ...Oh! You know what, you should tell them about your past \u2014 about the first time you ordered fireworks from my family."
+ },
+ {
+  "text": "Kouichi: That's a long story, actually... Where do I start... ...Oh, uh \u2014 maybe I'll come back to that after moving the boat here."
+ },
+ {
+  "text": "Yoimiya: Oh, right, yeah. Got caught up in the conversation there, hehe."
+ },
+ {
+  "text": "Kouichi: Okay, well, I'll leave you to it for now and meet you back here later."
+ },
+ {
+  "text": "Yoimiya: Hehe, lucky he reminded me, otherwise I would've ended up chatting the rest of the day away. I've been so busy with the fireworks business these past few days that I haven't had a moment to stop and chat with anyone. Ugh, it's killing me. Of course, Pops is happy to listen to me chatter away... but because he can hardly hear anything, it's difficult to get an interesting reaction from him... ...Aaaand I'm doing it again, aren't I? Ugh. What I meant to say was, while Kouichi is bringing the boat here, we should try to find some firework materials. I need to make fireworks not just for you guys, but for those kids and Sakujirou as well. We're missing a lot of materials."
+ },
+ {
+  "text": "You: If it's too much trouble, don't worry about us."
+ },
+ {
+  "text": "Yoimiya: It'll be fine. It's actually like this every year, there's always a bunch of extra orders to slot in here and there. When people want fireworks, it's always because they have something to commemorate. And if they miss the chance, they might never get another one. So, no matter how busy I am, I'm always happy to take their orders."
+ },
+ {
+  "text": "You: So, what you're trying to say is that you enjoy the work?"
+ },
+ {
+  "text": "Yoimiya: Oh, I do! I really do. Being born into a family of fireworks makers, I feel like since I was a kid, I've been obsessed with watching things go BOOM and then seeing all the lights and colors and... ...Uh, but what I really wanted to say was: Don't worry about me, it'll all be fine!"
+ },
+ {
+  "text": "You: Oh, so THAT's what you meant... Your main point got a bit buried in all the extra information."
+ },
+ {
+  "text": "Yoimiya: Sorry, sorry! It's just that good conversation can be as fleeting as fireworks, sometimes, you know? So when I'm in the mood and I've got a lot to say, I just have to get it all out there in one go and leave no regrets! Let's head to the city, I think I'll try my luck with some people that I know."
+ },
+ {
+  "text": "You: Question! Doesn't it hurt your voice, talking all the time?"
+ },
+ {
+  "text": "Yoimiya: It can get uncomfortable, I guess... But what else would I be using my voice for?"
+ },
+ {
+  "text": "Yoimiya: Ah, here we are!"
+ },
+ {
+  "text": "Yoimiya: Hello, Morihiko. How's business these days?"
+ },
+ {
+  "text": "Morihiko: Haha, Yoimiya, there you are. I thought you might show up. No need to beat about the bush \u2014 you'll be here for the firework materials, I assume? I put a batch aside just for now. It'll definitely be enough."
+ },
+ {
+  "text": "Yoimiya: Huh? Really? How did you know!?"
+ },
+ {
+  "text": "Morihiko: Because a fireworks show is coming up! And that usually means you'll be running all over the place trying to get your hands on some last-minute materials. I've come to expect it now. There's always a few extras unaccounted for, eh."
+ },
+ {
+  "text": "Yoimiya: So sorry for bothering you every time..."
+ },
+ {
+  "text": "Morihiko: Haha, it's no trouble at all, my friend. Once when I'd had an argument with my son, Yoimiya was the one who came and calmed him down. I'm hopeless at communicating with him. If it wasn't for Yoimiya, who knows, he probably would've run away by now..."
+ },
+ {
+  "text": "Yoimiya: Naw, it was never gonna come to that. He's a sensitive kid and he cares a lot about your feelings. It's just... he doesn't know how to express it. Maybe if you turned that frown upside down once in a while, he might feel more at ease."
+ },
+ {
+  "text": "Morihiko: Yeah, I guess I'm probably too serious around him... Which is strange, because I don't think I'm anything like that when I'm talking with other people..."
+ },
+ {
+  "text": "Yoimiya: Don't worry about it! No one's perfect. If you have any more trouble in the future, just come to me. Even if it's not fireworks-related, I'll happily oblige. Customers come first, always."
+ },
+ {
+  "text": "Morihiko: Haha, alright then. Everyone's always saying what a good kid you are. Your father must be very proud of you. Go ahead and take the ore, by the way. It's on the house."
+ },
+ {
+  "text": "Yoimiya: Oh no you don't! That's out of question!"
+ },
+ {
+  "text": "Morihiko: Relax, just take it as a token of my gratitude."
+ },
+ {
+  "text": "Yoimiya: Gratitude won't pay your bills, though... Don't do this to me, can't we just play by normal business rules here?"
+ },
+ {
+  "text": "Morihiko: I already said it's fine. Please, just take it. Surely you've got a whole load of other things you need to get done today?"
+ },
+ {
+  "text": "Yoimiya: Um... Well, how about this, then: I'll record this in my notebook, and we can consider it a down payment against any fireworks you want to purchase in the future."
+ },
+ {
+  "text": "Morihiko: *sigh* There's no convincing you, is there... Alright then, if you insist. Pass on my regards to your dad. Tell him Morihiko wishes him health and happiness."
+ },
+ {
+  "text": "Yoimiya: Will do. You look after yourself as well. Don't push yourself too hard \u2014 you don't wanna make yourself ill again."
+ },
+ {
+  "text": "You: Everyone seems to really like you, Yoimiya. Seems like you'd happily do anything for anyone."
+ },
+ {
+  "text": "Yoimiya: You're not the first person to say that. In fact, some people think I'll literally do any favor they ask me to. When that happens, I say to them \"Hey! This is a fireworks store! We do fireworks!\" But, ugh. They don't always listen. So, it can't be helped... but also, it's not really a big deal."
+ },
+ {
+  "text": "You: Fireworks are pretty important to Inazumans, huh?"
+ },
+ {
+  "text": "Yoimiya: Well, for one thing, if you want to commemorate something, naturally you're gonna want something loud, bright, and beautiful. But I think more importantly than that, everyone trusts us. If it wasn't for our customers, we wouldn't be able to stay in business. Anyway, we've got all the materials we need now, so that solves that problem! Next, we just need to go find someone to process them!"
+ },
+ {
+  "text": "Yoimiya:  Hajime, Mr. Amenoma! It's me!"
+ },
+ {
+  "text": "Hajime: I'm very sorry, would you be able to wait for a while? I have quite a backlog of weapons orders right now."
+ },
+ {
+  "text": "Yoimiya: No worri\u2014 Oh wait, actually... Ahh, yeah, that could be a problem... some worries. Oh, how about this! Do you need a hand? As long as we can get through your orders, you can help me process my ore, right?"
+ },
+ {
+  "text": "Hajime: Uh... that will depend on my master..."
+ },
+ {
+  "text": "Yoimiya: Oh, you don't mind, do you, Mr. Amenoma! As you know, it's not long now until the Naganohara Fireworks Show starts. There's still a lot of fireworks left to make. If I don't finish them on time..."
+ },
+ {
+  "text": "Amenoma Tougo: Is that so surprising? It is, after all, the only option."
+ },
+ {
+  "text": "Yoimiya: Thank you for helping out, Mr. Amenoma!"
+ },
+ {
+  "text": "Amenoma Tougo: You're quite welcome. The Naganohara Fireworks Show is an important event, this I know well. In addition to this, I am indebted to Ryuunosuke for all the business he has given me. But Yoimiya... you should plan things more carefully in the future. Do not rush everything at the last minute."
+ },
+ {
+  "text": "Yoimiya: Hehe, I'll try my best. In the future, I'll get some extra materials in to cover any unexpected changes of plan late in the day."
+ },
+ {
+  "text": "Yoimiya: Wow, Mr. Amenoma! Just look at the shape and size of these grains... It's beautiful. I'm at a loss for words. It's been a while since I've seen you take up your tools, but it looks like your craft hasn't degraded one bit."
+ },
+ {
+  "text": "Hajime: I know, I know..."
+ },
+ {
+  "text": "Yoimiya: Hahaha, alright, I won't bother you guys any longer. Remember to come and watch the fireworks! Okay, Traveler, time to head off. Kouichi probably isn't back just yet, but let's go wait for him."
+ },
+ {
+  "text": "Yoimiya: Ah, just as I thought, he isn't back yet. But not to worry, because actually, I've been hoping for a chance to have a nice long chat with you all day. Sorry for dragging you with me everywhere... Everyone's been so good to me though. It's all gone really smoothly, hee-hee."
+ },
+ {
+  "text": "You: *sigh* Feels like Paimon has barely spoken a word this whole trip. You seem to get along well with everyone. It was nice just listening quietly."
+ },
+ {
+  "text": "Yoimiya: I felt like I was neglecting you guys, so I wanted to find an opportunity to catch up. When we first met, I was in a hurry. We didn't have a chance to sit down and have a proper chat. You guys are travelers, right? So, where else did you go before coming to Inazuma?"
+ },
+ {
+  "text": "You: Mondstadt, the City of Freedom."
+ },
+ {
+  "text": "Yoimiya: Sounds great! I heard that they pretty much have no rules over there, right? So people are free to live their life however they want, doing whatever makes them happy. My pops actually received a gift from one of his old customers over there. It was from the winery or something..."
+ },
+ {
+  "text": "You:  Dawn Winery! Their Dandelion Wine is super famous."
+ },
+ {
+  "text": "Yoimiya: Oh, yes! That's the one. I remember when he drank it \u2014 hee-hee, I've never seen him enjoy a bottle of wine so much in his life! He was telling me all night about how good it tasted."
+ },
+ {
+  "text": "You: Liyue, the nation of contracts."
+ },
+ {
+  "text": "Yoimiya: I haven't been to Liyue before, but from what I've heard from Miss Beidou, it sounds like a really interesting place. But something big happened there recently, right? Didn't their archon leave all of sudden?"
+ },
+ {
+  "text": "You: Yeah, a lot of crazy things went down as a result. *sigh* Luckily, everyone worked together to stave off a huge disaster that could have wiped out the whole city."
+ },
+ {
+  "text": "Yoimiya: Oh, well that's good to hear. I gotta say, it's pretty remarkable that the citizens managed to step up and keep things going even after their archon left. I mean, I sure can't imagine Inazuma without the Shogun. My friend once said to me that only people with a strong will and a clear purpose decide to go traveling. Maybe it's to see a certain view or to fulfill a certain wish... So. What made you guys embark on your treacherous journey to Inazuma?"
+ },
+ {
+  "text": "You: To track down an enemy god. And to find a lost family member, too. I'm looking for my lost sister. And we're looking for answers from the gods, too."
+ },
+ {
+  "text": "Yoimiya: You were separated from your family because of a god? Oh... That must be really tough."
+ },
+ {
+  "text": "You: Sometimes it is. I'm slowly learning to cope."
+ },
+ {
+  "text": "Yoimiya: I get it. Well, if that's how it is, then that's how it is. Eh-he, y'know, I was going to ask you guys if you wanted to stay here in Inazuma. Unlike the outside world, what Inazuma seeks is eternity. In other words, a state of tranquility, where very little ever changes. The advantage of that is that if you're tired from your journey, Inazuma's a great place to come and rest. Umm... let me put it this way. I was just worried that you might be getting weary, and if you keep pressing on in that state, you might start to lose sight of the things that made you want to start your journey in the first place."
+ },
+ {
+  "text": "You: *sigh* Sometimes, that's also just how it is."
+ },
+ {
+  "text": "Yoimiya: When you're exhausted, everything becomes an uphill struggle. Even trying to have fun \u2014 you won't be able to enjoy yourself if you're too tired. An adventurer friend of mine once told me that if you're too focused on reaching the end of the race, you'll miss a lot of opportunities and precious moments to be had along the way."
+ },
+ {
+  "text": "You: ... I'll bear that in mind."
+ },
+ {
+  "text": "Yoimiya: Don't worry though, I'm sure I can think of some way to get you feeling relaxed and happy! And you're here now, so even if you're gonna leave eventually, I wanna make sure you at least leave with fond memories. Who knows \u2014 once you're reunited with your family, maybe you'll find Inazuma the right kind of place to call home."
+ },
+ {
+  "text": "You: I'll add it to my list of candidates. It also depends what my sister thinks."
+ },
+ {
+  "text": "Yoimiya: Hehe, I already have an idea of the color and type of fireworks I wanna give you guys. I'll keep it a secret for now, though."
+ },
+ {
+  "text": "Kouichi: Can't be helped, I'm afraid, this is the biggest and sturdiest boat that I can provide. It's built from the finest Inazuman timber. Still, I'll be the first to admit that if he's planning to ride this into the storm, it's going to be exceedingly dangerous..."
+ },
+ {
+  "text": "Yoimiya: I'm also hoping Sakujirou won't have to use it. It's just there as a last resort. I gotta say, though, Kouichi, it feels like your craft has improved once again."
+ },
+ {
+  "text": "Kouichi: Haha, I'm not the one you should be praising. It's all thanks to the guys who kindly pitched in. To avoid detection, we each worked on our own materials separately, then assembled them secretly in the night. This is the largest we could afford to build it. Any bigger and there's no way it would pass the Tenryou Commission's inspection."
+ },
+ {
+  "text": "Yoimiya: Let's store the boat here for now, then. I'll fill Sakujirou in when I get back, he'll need to make some preparations before setting sail."
+ },
+ {
+  "text": "You: Uh-oh, Paimon feels really worried all of a sudden... Uh... Doesn't helping Sakujirou make you a collaborator in the eyes of the Tenryou Commission?"
+ },
+ {
+  "text": "Yoimiya: Haha, maybe it does, but I knew what I was getting into from the moment I agreed to help him. My family has pretty good connections with the Yashiro Commission. We work very closely with them. And whenever there's a national event of any sort, the other two Commissions come to us, too. As long as I'm polite and respectful and don't cause a fuss, they won't look to cause trouble for me, either. And anyway, to your point about collaboration... you've been helping out too, right?"
+ },
+ {
+  "text": "You: That's true, this was all a collaborative effort... wait, huh? *gasp* Oh no! We were chased by the Millelith in Liyue, too. Do we have to be the bad guys in Inazuma as well?"
+ },
+ {
+  "text": "Yoimiya: Ah, so you're seasoned crooks already, eh? Don't know what I was worried about then! Hehe. Anyway, thanks for everything, Kouichi. Oh, and your fireworks are ready, so just go and pick them up from my house whenever you want. While you're there, you can get my pops to settle the boat construction fees."
+ },
+ {
+  "text": "Kouichi: Oh, don't worry about paying anything. Third Sis would be sure to scold me if she found out I'd taken Mora from the Naganoharas."
+ },
+ {
+  "text": "You: Who's Third Sis?"
+ },
+ {
+  "text": "Yoimiya: Oh! Uh, let me explain this one, it's a story my pops told me. There used to be a thriving merchants' guild in Inazuma, it got really prosperous. At one point, there were a dozen or so kids born around the same time to the families of the guild. They all grew up together, each of them learning their respective family's business. They were a tightly knit group of friends, but eventually, they all grew up and decided they each wanted to go into business themselves. It was inevitable that their business would send them all to different corners of the world, and that they'd have far less opportunity to see each other in the future."
+ },
+ {
+  "text": "Kouichi: That's right. Just before we went our separate ways, the eldest of the group suggested that we should all go watch some fireworks together one last time."
+ },
+ {
+  "text": "Yoimiya: Hehe, they were all very ambitious types, and each had their own knack for doing business. One by one, they left, until Kouichi was the only one of them remaining in Inazuma. After that, he hardly saw them. But whenever one of them did come back to visit, fireworks would always be involved."
+ },
+ {
+  "text": "Kouichi: Yeah, no matter how close you and your friends are, there's always going to be some distance after being separated for a long time. But as soon as the fireworks lit up the sky, it'd instantly take us right back to our childhood, and we'd be chatting away like in the old days. To us, those memories are eternal."
+ },
+ {
+  "text": "You: Ohh, so this is what you meant when you were talking about commemorating things."
+ },
+ {
+  "text": "Yoimiya: Yep, that's exactly right. That's why I can't let people down when they're counting on me for their fireworks. Anyway, I need to go update Sakujirou. See you, Kouichi! Thanks again for your help!"
+ },
+ {
+  "text": "Yoimiya: Okay, story time. So, whenever Kouichi brings one of his friends from the trade association to see me, they always mention how they used to play with me when I was a kid, or held me once as a baby, or something. But there are so many of them in that friendship group, and I don't remember anything from that age anyway. So I never have a clue who they are. One time, he shows up with another one of his friends, and the friend asks me if I remember him. So I'm like, \"Yes, I do! You held me once when I was just a baby!\" Kouichi just bursts out laughing and says actually, this is one of his carpenter friends. Turns out he's a lot younger than he looks \u2014 just a few years older than me. I went bright red and must have apologized, like, a million times. Arghhhh, it was so embarrassing."
+ },
+ {
+  "text": "Yoimiya: The boat is a-ready and waiting. I'll mark the location for you on the map. Before you leave, I recommend that you pack some food and water. You can never be too prepared."
+ },
+ {
+  "text": "Sakujirou: Ah... *sigh* After how much effort it took to get back in, it's hard to convince myself to leave again... especially when I'll be going up against the stormy ocean on a tiny little boat... My prospects don't look great."
+ },
+ {
+  "text": "Yoimiya: Well, they won't look much better if you get caught by the Tenryou Commission... I'm afraid that sooner or later, they are going to find you here. Time is starting to run out."
+ },
+ {
+  "text": "Sakujirou: I'm sorry, I'll make sure to get out of here before they come. I promise I won't cause you and your family any more trouble."
+ },
+ {
+  "text": "Yoimiya: I didn't mean it like that. If we ran into any problems, I'm sure I'd figure something out. But if the Tenryou Commission does catch up to you, then make a run for the boat."
+ },
+ {
+  "text": "Sakujirou: I didn't use to like this place at all, that's why I left. But looking back on things now, I was really just running away from my responsibilities. Once I started to realize that, I got restless. I couldn't stop thinking about the people and the things I'd left behind... So, I... Ah, forget it, what does it matter now. It's too late, anyway. I originally wanted to make up for all my regrets, but instead, I found myself in the situation I'm in now."
+ },
+ {
+  "text": "Yoimiya: *sigh* What a pity..."
+ },
+ {
+  "text": "You: Talk to us about it, maybe we could\u2014"
+ },
+ {
+  "text": "Yoimiya: If only there was no Sakoku Decree, huh. Anyway, don't worry, we're not going to bother you about it. We'll keep trying to buy you as much time as possible until you reach your final decision. The Tenryou Commission... If only they weren't so overzealous, there might be a way... Oh, that's right! That elderly couple, old customers of ours \u2014 their son's in the Tenryou Commission, isn't he? Yeah, quite high up, as well. That's it! I'll go talk to them. Maybe they can do something!"
+ },
+ {
+  "text": "Sakujirou: Um... Are you sure they won't just report me instead?"
+ },
+ {
+  "text": "Yoimiya: Oh, don't worry about that. They're really nice people, I know them well. They won't cause us any issues. Alright, you should get back indoors, Sakujirou. We'll be back in no time time at all. Okay, let's go. Time waits for no one. Wait, hang on... What about the fireworks? All those materials... there's so many orders to finish... ...Pops! Pops! Oh, never mind. I know, I'll write him a note telling him to sort out the fireworks!"
+ },
+ {
+  "text": "Yoimiya: Sure. Let's get this party started!"
+ },
+ {
+  "text": "Yoimiya: No mercy at all, huh..."
+ },
+ {
+  "text": "Yoimiya: Ah, I shoulda paid more attention..."
+ },
+ {
+  "text": "Yoimiya: I'm not giving you an inch!"
+ },
+ {
+  "text": "Yoimiya: Let the sparks fly!"
+ },
+ {
+  "text": "Yoimiya: Aw, don't be sad. How about another round?"
+ },
+ {
+  "text": "Yoimiya: Argh, that didn't count. Best of three?"
+ },
+ {
+  "text": "Yoimiya: Sure. Let's get this party started!"
+ },
+ {
+  "text": "Yoimiya: No mercy at all, huh..."
+ },
+ {
+  "text": "Yoimiya: Ah, I shoulda paid more attention..."
+ },
+ {
+  "text": "Yoimiya: I'm not giving you an inch!"
+ },
+ {
+  "text": "Yoimiya: Let the sparks fly!"
+ },
+ {
+  "text": "Yoimiya: Aw, don't be sad. How about another round?"
+ },
+ {
+  "text": "Yoimiya: Argh, that didn't count. Best of three?"
+ },
+ {
+  "text": "Yoimiya: Hehe, time to show you what I've been working on."
+ },
+ {
+  "text": "Yoimiya: Huh!? Oh, I need to focus..."
+ },
+ {
+  "text": "Yoimiya: Grr... You're too good at this..."
+ },
+ {
+  "text": "Yoimiya: Hehe, lemme take that off your hands."
+ },
+ {
+  "text": "Yoimiya: Check this out!"
+ },
+ {
+  "text": "Yoimiya: Hahaha, I won, I won!"
+ },
+ {
+  "text": "Yoimiya: Oh, the shame, the shame! Hehe..."
+ },
+ {
+  "text": "Yoimiya: Who knew Genius Invokation TCG was so popular... We should set up a booth for the next festival!"
+ },
+ {
+  "text": "You: I've got other things to do right now..."
+ },
+ {
+  "text": "Yoimiya: See ya! I'm still not done playing yet... I just got some interesting cards, so I wanna check them out!"
+ },
+ {
+  "text": "Yoimiya: If there's one thing I'm confident in, it's my gaming skills!"
+ },
+ {
+  "text": "Yoimiya: Aww, just one more round! I think I figured out what the trick is!"
+ },
+ {
+  "text": "Yoimiya: Who knew Genius Invokation TCG was so popular... We should set up a booth for the next festival!"
+ },
+ {
+  "text": "You: I've got other things to do right now..."
+ },
+ {
+  "text": "Yoimiya: See ya! I'm still not done playing yet... I just got some interesting cards, so I wanna check them out!"
+ },
+ {
+  "text": "Yoimiya: If there's one thing I'm confident in, it's my gaming skills!"
+ },
+ {
+  "text": "Yoimiya: Aww, just one more round! I think I figured out what the trick is!"
+ },
+ {
+  "text": "Yoimiya: Heya Traveler, Paimon! I had a feeling you two would be here!"
+ },
+ {
+  "text": "You: Oh, Yoimiya! You're here too?"
+ },
+ {
+  "text": "Yoimiya: Mm-hmm. I was also here for the first round, but I arrived a little early, so maybe that's why I didn't see you. By the way, I heard you were the winners. Impressive! I eventually found the hidden Dango Milk too, but it was already too late."
+ },
+ {
+  "text": "You: Hehe... Actually, Paimon still doesn't know how we managed to find it. Paimon was just hiding behind him the whole time, and somehow we won!"
+ },
+ {
+  "text": "Yoimiya: Traveler, you never told me you were so good at this sort of event... You weren't keeping it a secret, were you? Anyway, would ya like to pair up with me? We'd be an amazing team! With us working together, the second round will be a piece of cake."
+ },
+ {
+  "text": "You: I want to partner up with Yoimiya."
+ },
+ {
+  "text": "Yoimiya: Hehe, awesome! Don't worry, you'll see that being on my team is a blast! Now let's get out there and win this thing... We'll move faster than a firework shooting straight into the sky! It'll be like WHOOOSHHH and the round will be ours!"
+ },
+ {
+  "text": "You: Let me think about it..."
+ },
+ {
+  "text": "Yoimiya: Oh, I understand. You have to put some thought into choosing the best partner... You did already win the first round, after all. But I'm definitely no pushover when it comes to the Test of Courage. I've been to loads of these events. Besides, choosing me means you'll have one less tough competitor to deal with, hehe! Anyway, give it some thought."
+ },
+ {
+  "text": "Yoimiya: So, made up your mind yet? Do you wanna team up with me?"
+ },
+ {
+  "text": "You: I want to partner up with Yoimiya."
+ },
+ {
+  "text": "Yoimiya: Hehe, awesome! Don't worry, you'll see that being on my team is a blast! Now let's get out there and win this thing... We'll move faster than a firework shooting straight into the sky! It'll be like WHOOOSHHH and the round will be ours!"
+ },
+ {
+  "text": "You: I still need to give it some more thought."
+ },
+ {
+  "text": "Yoimiya: Ah, really? That's a bummer... Well anyway, I'll be right here if you change your mind!"
+ },
+ {
+  "text": "You: Something just fell from above! Ah, keep it away from Paimon!!!"
+ },
+ {
+  "text": "Yoimiya: Really? Lemme see... Oh! It's some Onikabuto! And pretty strong ones, from the looks of it. I'll hold on to them! Hehe, they'll come in real handy for the next Onikabuto tournament!"
+ },
+ {
+  "text": "Yoimiya: You want to explore somewhere else? Uh, how about we finish the Test of Courage first!"
+ },
+ {
+  "text": "Yoimiya: C'mon, let's go. We can't let anyone beat us to it!"
+ },
+ {
+  "text": "Yoimiya: Hey, did you guys hear that?"
+ },
+ {
+  "text": "You: Huh? Hear what?"
+ },
+ {
+  "text": "Yoimiya: It sounded like it came from inside the shrine. I've heard people say that some evil spirits are sealed in shrines, and at night they make banging sounds from inside. Whenever someone approaches, a spirit will \u2014 POW \u2014 leap out and pull that unfortunate person inside the shrine, using the victim to replace themself [ sic] as the prisoner!"
+ },
+ {
+  "text": "You: Whaaaaa! Stay away from Paimon!!!"
+ },
+ {
+  "text": "Black Kitten: Meow?"
+ },
+ {
+  "text": "Yoimiya: Huh? Oh, it's a kitty. Not gonna lie, that's kinda disappointing! I was hoping to see a real evil spirit!"
+ },
+ {
+  "text": "Yoimiya: That's strange... How did Paimon transform into a Lavender Melon?"
+ },
+ {
+  "text": "You: Hey, Paimon's over here! That doesn't even look like Paimon!"
+ },
+ {
+  "text": "Yoimiya: Hmm? So, what in the world is this...? Hey, it's flying away. Don't go! Let me have a look at ya!"
+ },
+ {
+  "text": "You: Uh, is it just Paimon, or is there an eerie shadow over there?"
+ },
+ {
+  "text": "Yoimiya: Oh, you're right! That wasn't there when we arrived! There's clearly no one around, but there's a shadow on the ground. Oh, this is like a real kaidan story! Let's go check it out!"
+ },
+ {
+  "text": "You: Phew... This should be far enough."
+ },
+ {
+  "text": "Yoimiya: Are you tired, Paimon? Do you want to take a break?"
+ },
+ {
+  "text": "You: Yes, please! Whew, let's rest here... Huh? W\u2014W\u2014Wait a minute! Was that statue always facing this way? The candles also went out! What's going on? Is something coming...? Oh, let's get out of here!!!"
+ },
+ {
+  "text": "Yoimiya: Whoa, Paimon wasn't kidding! The statue really did move. Wonder how that works..."
+ },
+ {
+  "text": "Yoimiya: Hmm? What is this stall doing here? Maybe it's for participants who need a break? Excuse me! Three glasses of juice, please... Hehe! Don't worry, this time it's on me!"
+ },
+ {
+  "text": "You: Yay! Thanks, Yoimiya."
+ },
+ {
+  "text": "Yoimiya: Uh, excuse me! Anyone here? Strange... seems like no one's around. Guess we'll just have to keep going."
+ },
+ {
+  "text": "Yoimiya: Wow, look at all the lanterns here! It's so beautiful! But now that I look closer, it seems like the lanterns are floating in midair. How is that possible?"
+ },
+ {
+  "text": "You: Uh, that's definitely not normal!"
+ },
+ {
+  "text": "Yoimiya: Hey Traveler, can I borrow your shoulders for a second? You can give me a boost and I'll pull one of them down!"
+ },
+ {
+  "text": "Yoimiya: Hehe! Look what we have here! Isn't this the fan we're looking for? Wow, it has such a beautiful design on it. Are those fireworks? It seems to be for some sort of festival! So now that we've found this fan, does that mean we've won the second round of the Test of Courage? Let's bring it back!"
+ },
+ {
+  "text": "You: Phew... Thank goodness it's over! Hmm, wonder if Itto's still out trying to capture those three from earlier. Paimon's a little worried about him... Why don't we have a look around?"
+ },
+ {
+  "text": "Yoimiya: Hmm? Is there something else you need to take care of? How about I take the fan back, then?"
+ },
+ {
+  "text": "You: Thank you~! That would help."
+ },
+ {
+  "text": "Yoimiya: No need to thank me. It's been a blast doing the Test of Courage with you guys! I'd love to do it again!"
+ },
+ {
+  "text": "Yoimiya: So you must be Hitotsume Kozou!"
+ },
+ {
+  "text": "Hitotsume Kozou: Y\u2014Yes!"
+ },
+ {
+  "text": "Yoimiya: Hehe, no need to be nervous. I'm Yoimiya, and I run Naganohara Fireworks."
+ },
+ {
+  "text": "Hitotsume Kozou: Oh...! I once saw some Naganohara fireworks... Even though I was watching from a distance, they were still so beautiful, bursting across the sky..."
+ },
+ {
+  "text": "Yoimiya: Really? Then the next time we meet, I'll bring some fireworks for us to launch together! It'll be fun!"
+ },
+ {
+  "text": "Yoimiya: So is there really a ghost around here? I'm gonna go look for it. I've never seen a ghost before! Oh, how exciting!"
+ },
+ {
+  "text": "Saika: Uhh, Yoimiya... A\u2014Are you sure the Great Mujina's nearby? If so, d\u2014does that mean we're in its territory now? Oh, I\u2014I'm scared..."
+ },
+ {
+  "text": "Yoimiya: Don't be scared! There's a whole group of us here, and we brought lots of fireworks too. If anything, the Great Mujina Youkai is the one that should be afraid!"
+ },
+ {
+  "text": "Iwao: Tartaglia, help! It's the Great Mujina Youkai!"
+ },
+ {
+  "text": "Yoimiya: That's not a youkai! It's Traveler. You've met him before, remember?"
+ },
+ {
+  "text": "You: Are you tracking the Great Mujina Youkai?"
+ },
+ {
+  "text": "Yoimiya: That's right, the Great Mujina Youkai has been getting pretty bold lately. It's even starting to trick people in broad daylight. Not only did it scribble all over Iwao's homework and get him in trouble at school, it also stole Saika's snacks and broke Matsuzaka's toys."
+ },
+ {
+  "text": "You: About Tartaglia..."
+ },
+ {
+  "text": "Yoimiya: Oh, him. Um... We specially invited him to be our \"Anti-Mujina Specialist.\" Fireworks can only do so much... They may scare it away, but if we want it gone for good, we need the help of a real professional."
+ },
+ {
+  "text": "Iwao: Tartaglia is so cool! He becomes like a watery blur when he fights. All you hear is WOOSH WOOSH POW! And then all the monsters are defeated! *sigh* If only he could teach me a few of his moves..."
+ },
+ {
+  "text": "Yoimiya: Well, why don't we ask him after we've taken down the Great Mujina Youkai! But right now, our priority is to search for evidence of this youkai and trace it back to its lair."
+ },
+ {
+  "text": "Iwao: And then... we'll be able to tackle it head on! Right, Yoimiya?"
+ },
+ {
+  "text": "Yoimiya: That's right. We'll defeat it together!"
+ },
+ {
+  "text": "You: Uh, Tartaglia is actually... Tartaglia's true identity is..."
+ },
+ {
+  "text": "Yoimiya: Shh, keep your voice down. Don't let Iwao and the others hear you. He's one of the Fatui Harbingers, right? Sakujirou mentioned him to me before... and I heard about everything that happened in Liyue, too. I know that he might be dangerous... But he saved Iwao, and the kids all warmed up to him right away. He even happily agreed to help us find the Great Mujina Youkai. I've heard that the Fatui are all really scary and dangerous... You know, like the kind of people you'd want to avoid the moment you lay eyes on them. But Tartaglia isn't like that at all, he's really nice to the kids. He even had an in-depth discussion with them about the Great Mujina Youkai's combat skills... From my point of view, it doesn't seem like he's just pretending to be nice. I think the kids would agree \u2014 they believe he's a kind, reliable grown-up. No matter what Tartaglia's true identity might be... he's doing something good right now, and I think he deserves to be treated accordingly. But don't worry, I'm not gonna let my guard down!"
+ },
+ {
+  "text": "You: Just let me know if you run into any trouble. No need to worry, I can deal with him."
+ },
+ {
+  "text": "Yoimiya: Okay, thanks! It's great to have you around."
+ },
+ {
+  "text": "Tartaglia: I see... Yeah, this will make a wonderful gift."
+ },
+ {
+  "text": "Yoimiya:  Yae Publishing House released several new novels recently. Shigeru told me that a good number of them are children's fairy tales \u2014 perfect for reading aloud to kids. Oh, and Ogura Mio has just received a new batch of silk. She might've come up with some new kimono designs. But do you still remember what size your sister wears? The kimono might look a little off if you get the size wrong."
+ },
+ {
+  "text": "Tartaglia: Lemme think for a second, I've bought clothes for her plenty of times before... That's it, I believe it's... Ah, hold on \u2014 she's having her growth spurt at the moment... She probably doesn't fit into anything I've bought her in the past anymore."
+ },
+ {
+  "text": "Yoimiya: It's okay if you don't know her exact size. You can always just buy her a few bolts of silk instead! Who knows, maybe she'd like that even better. Oh! And why don't you take some fireworks with you as well? I just finished creating a new design that's both pretty and relatively quiet. I'm sure your siblings are gonna love it! Hmm... What else should you get them... lemme think."
+ },
+ {
+  "text": "Tartaglia: Hehe, talk about a coincidence. I happened to be passing through Inazuma while taking care of some... work. I wanted to grab some presents for my younger siblings while I was here, but I couldn't decide on what to buy. Teucer once told me that he wanted to hold an Onikabuto, so I decided to go catch one of those little bugs first. As I was looking for Onikabuto in the forest, I saw a child playing all on his own... and he was headed straight for a camp of monsters. So I stopped the child, dealt with the monsters, and then he led me back to Yoimiya. After that... Well, I was designated as the \"Anti-Mujina Specialist.\" It's a shame the kids' parents came and took everyone back home, saying that they'd had enough adventures outside. *sigh* Our hunt for the youkai came to an abrupt end. The ship I'll be leaving on will arrive in Inazuma in just a few days. Then it'll be my turn to go back home. Oh, by the way, Yoimiya, can you recommend a few local beverages as well?"
+ },
+ {
+  "text": "Yoimiya: Local beverages? But you're going to be on a ship for quite some time, right? Beverages spoil easily... How about bringing some snacks with a longer shelf life? Something like Tricolor Dango or Sakura Mochi, for example. Saika loves Tricolor Dango, but the adults in her family always scold her for eating too many and spoiling her appetite."
+ },
+ {
+  "text": "Tartaglia: Teucer used to be like that too. After having too many snacks, he'd refuse to eat his meals and end up getting yelled at by Father... Anyways, thanks Yoimiya. I gotta make sure I have enough Mora for all this. Two kimonos, three bolts of silk, one novel, five boxes of snacks... Oh, and the Onikabuto as well."
+ },
+ {
+  "text": "Yoimiya: You really care a lot about your family, Tartaglia..."
+ },
+ {
+  "text": "You: Did anything weird happen? Is everything alright?"
+ },
+ {
+  "text": "Yoimiya: Oh, you mean with Tartaglia? Nah, everything's fine. He took great care of the kids and even promised Iwao he'd teach him a few moves with a sword. Though, I have to say... It's amazing you have so many friends from all over the world."
+ },
+ {
+  "text": "You: It's not that many, really... It's because I'm always traveling..."
+ },
+ {
+  "text": "Yoimiya: You're so lucky... I'd travel all across the world too if I had the chance. I want to see all that there is to see and make friends with all kinds of people... I would even go on adventures with them, just like you do... But for now, I have to stay home with my pops, so I won't be traveling far anytime soon. Don't keep it a secret next time you come to Inazuma, okay? Just be sure to visit Naganohara Fireworks first and tell me all about the amazing things you've seen on your journey."
+ },
+ {
+  "text": "You: Yoimiya, we need an extra-large firework! The super, duper big kind!"
+ },
+ {
+  "text": "Yoimiya: \"Extra-large firework\"? Hee-hee, you sure came to the right person. As it happens, I made this really souped-up one just a couple days ago. But it's so powerful that I haven't found anywhere I can test it out yet... may as well give it to you. Let me know how it turns out. Don't forget, move well away from it after you light the fuse, and try to avoid burning your clothes. Also, it's best that you cover your ears..."
+ },
+ {
+  "text": "You: Eh, why does Paimon feel so nervous all of a sudden..."
+ },
+ {
+  "text": "Yoimiya: Hahaha, don't worry, it's just a firework, come on. What's the worst that could happen!"
+ },
+ {
+  "text": "Yoimiya: Hmm? Is there anything else you want?"
+ },
+ {
+  "text": "Yoimiya: Yes! This is the kind of atmosphere I live for, I absolutely love it! I'm super impressed, it's pretty amazing that you managed to do this place up like a shopping street. Is there a Naganohara Fireworks here, too? I wanna go find it! Come on, come with me! After all the effort you've put into this place, we should have some fun here!"
+ },
+ {
+  "text": "Yoimiya: Hehe, time to show you what I've been working on."
+ },
+ {
+  "text": "Yoimiya: Huh!? Oh, I need to focus..."
+ },
+ {
+  "text": "Yoimiya: Grr... You're too good at this..."
+ },
+ {
+  "text": "Yoimiya: Hehe, lemme take that off your hands."
+ },
+ {
+  "text": "Yoimiya: Check this out!"
+ },
+ {
+  "text": "Yoimiya: Hahaha, I won, I won!"
+ },
+ {
+  "text": "Yoimiya: Oh, the shame, the shame! Hehe..."
+ },
+ {
+  "text": "Yoimiya: Good evening, you guys are here just on time! It's the perfect time to watch fireworks!"
+ },
+ {
+  "text": "You: Yoimiya\u2014!"
+ },
+ {
+  "text": "Yoimiya: Hmm? What is it?"
+ },
+ {
+  "text": "Hitotsume Kozou: Aww no... I almost had it!"
+ },
+ {
+  "text": "Yoimiya: Starting to get the hang of it, huh? Keep trying!"
+ },
+ {
+  "text": "Hitotsume Kozou: Ah, the string snapped! I was so close! Yoimiya, this is more difficult than it looks. Can you really fish out these water balloons with a string?"
+ },
+ {
+  "text": "Yoimiya: Don't worry. Let me show you a little trick. Just remember that your hand has to be quick!"
+ },
+ {
+  "text": "You: Yo-yo Tsuri! Paimon's seen this game in some light novels before!"
+ },
+ {
+  "text": "Yoimiya: Do you want to give it a shot? Close one eye, aim carefully, and fish it out quickly!"
+ },
+ {
+  "text": "Yoimiya: Every year, when the fireworks go off, I say to myself, \"Another year has already passed.\" As each year passes by, your life gradually approaches its end. But I don't think that's a bad thing. Like I always say, fireworks are for now, but friends are forever."
+ },
+ {
+  "text": "Yoimiya: Cheer up guys, don't be so down. He was only joking back there. How could the Great Mujina Youkai not exist, huh?"
+ },
+ {
+  "text": "Matsuzaka: B\u2014But, we've never seen it for ourselves..."
+ },
+ {
+  "text": "Yoimiya: That's because the Great Mujina Youkai is extra powerful! And that's exactly why I need your help, isn't it?"
+ },
+ {
+  "text": "Matsuzaka: Ummmm..."
+ },
+ {
+  "text": "Yoimiya: It's okay, don't be discouraged. Hey, remember, if you wanna be a hero, you gotta have patience \u2014 and wisdom, too. Even if you can't find it right now, it'll definitely show up before the fireworks show starts. So remember to come and pick up your weapons from me before then, okay? No matter how powerful the Great Mujina Youkai might be, it's no match for my specially made fireworks! Just light 'em up and you'll scare it off, no problem. It's up to you guys to protect your homes, your crops, and your folks!"
+ },
+ {
+  "text": "Matsuzaka: Got it! Thanks, Miss Yoimiya, we'll try and be more patient!"
+ },
+ {
+  "text": "Yoimiya: Oh yeah, hold up a sec. I have a few slips of paper for you guys \u2014 one each. Remember to give it to your parents and tell them to keep it safe. Just tell them it's from Yoimiya. They'll know what it's about."
+ },
+ {
+  "text": "Iwao: Okay! Thank you, Yoimiya! We're gonna go back now."
+ },
+ {
+  "text": "Saika: Thanks, Yoimiya! Come play with us soon!"
+ },
+ {
+  "text": "Yoimiya: Sure thing, will do! Take care on the way back, and I'll see you later!"
+ },
+ {
+  "text": "You: Uhh... so... It's been a while. We meet again."
+ },
+ {
+  "text": "Yoimiya: Ah, so it WAS you guys. I guessed as much from the way the kids described you. No worries, though, I'm not blaming you. The Great Mujina Youkai is pretty popular with the kids, so of course they're gonna get upset if someone tries to tell them it doesn't exist."
+ },
+ {
+  "text": "You: Okay... but it definitely doesn't exist... right?"
+ },
+ {
+  "text": "Yoimiya: Yeah, the first time I heard about it, I knew straight away that it was probably something the parents had come up with to stop the kids from running off all the time. But when the kids asked me about it, I didn't wanna break it to them. I just told them that it looks cute, likes to play pranks, and doesn't hurt people. So I guess now, the kids' impression of the Great Mujina Youkai is mostly influenced by me."
+ },
+ {
+  "text": "You: Huh... So in a way, this monster is all a product of your creativity... Surely it's a bad idea to keep the lie going like that?"
+ },
+ {
+  "text": "Yoimiya: Maybe so. In any case, I'm not gonna be the one who exposes it. Sure, it's likely that the parents just wanted to stop the kids from staying out all the time. But they could have easily had other reasons, too. If I just go ahead and tell them that the Great Mujina Youkai doesn't exist without knowing the full story, then who knows \u2014 I may be doing more harm than good. Besides, they're just kids. They should be allowed to believe it if it makes them happy. That's more important to them than questioning what's real and what isn't. Heck, I entertain my fair share of fantasies too... The Fire Diamond that spins around and shoots out lights that are all the colors of the rainbow... Ooh \u2014 the Mist Spirits that live far off in the mountains and guide you to fairyland if you can find them... I know that they don't really exist, but I still enjoy believing in them. If someone came up to me and starting telling me to \"stop being so stupid, they don't exist, nyah nyah nyah\"... I'd give them the evil eyes and tell them to get the heck out of my face! Because... grr, it's just so annoying!"
+ },
+ {
+  "text": "You: I kind of get what you are saying."
+ },
+ {
+  "text": "Yoimiya: Right!? So what if it's made up \u2014 it's also really awesome and kinda magical. So it's not up to anyone else to tell me what's what!"
+ },
+ {
+  "text": "You: Why be so childish about it?"
+ },
+ {
+  "text": "Yoimiya: Because maybe it doesn't matter so much if something's real or not. Maybe magic and awesomeness are what make something worth believing. Why should someone else get to take that away from you? The things we believed and the experiences we had when we were young turn into our priceless treasures as we grow up. When you were kids, surely you guys believed in things like heroes who slayed dragons, and sacred swords that cut through darkness? It's the same thing. If we tear apart these kids' fairy tales now, what else do we have to tell them? That Inazuma is locked down? All the grim tales of the Vision Hunt Decree? I think it's a bit too early for all of that."
+ },
+ {
+  "text": "You: Uh... Yeah! Oh, way too early. For sure! You didn't follow that at all, did you? No need to pretend to agree if you didn't understand."
+ },
+ {
+  "text": "Yoimiya: Haha, whether you understood me or not, don't you worry. I'll take care of the kids, and make sure they stay safe. Ahh! Okay, it's about time I headed back. The Naganohara Fireworks Show is just around the corner, and there's still a lot of things to get ready."
+ },
+ {
+  "text": "You: Naganohara Fireworks Show? Is that hosted by your family or something?"
+ },
+ {
+  "text": "Yoimiya: Well, yeah, I mean, that's why our name is on the event. It's well-known throughout Inazuma. Oh, on the subject \u2014 are you busy these days? If not, then you should totally come along. I'll prepare an extra-pretty firework, just for you!"
+ },
+ {
+  "text": "You: We've been looking forward to it for ages! I'll gladly take you up on that offer."
+ },
+ {
+  "text": "Yoimiya: Hee-hee, in that case, come with me to Naganohara, we'll go see my pops! There're still a few fireworks to finish off before the show."
+ },
+ {
+  "text": "Yoimiya: Inazuma is home to the Yae Publishing House, and a lot of people who like to write stories, too. In fact, most of what they write is based off of the kinds of fairy tales I was just talking about. A bunch of them have bad endings, though. Like, oh \u2014 the Fire Diamond will get put in a rich person's gallery, where it will never be ignited again. Or someone will see the Mist Spirit, and not manage to catch it, but because they angered it, it'll never show itself again. The hero who slays the dragon becomes the next dragon... The sacred sword that once fought the darkness now becomes a doomsday weapon... *sigh* I know these kinds of stories are all the rage nowadays, but... I really can't bring myself to like them. If something's magical, it should be kept that way."
+ },
+ {
+  "text": "Yoimiya: Hey, Pops, I'm back!"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: The fireworks show is almost upon us, and the fireworks for each family are almost ready. Oh, new faces? Who are these two? Friends, or customers?"
+ },
+ {
+  "text": "Yoimiya: A bit of both actually. They arrived in Inazuma just recently. Can't let them miss out on a fireworks show after coming all this way, can we?"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Hahaha, well, either way, come on in and have a seat and I, Naganohara Ryuunosuke, will tell you all about the long history of the Naganoharas."
+ },
+ {
+  "text": "Yoimiya: That can wait. Pops, I need to ask you about something."
+ },
+ {
+  "text": "Naganohara Ryuunosuke: A long, long time ago..."
+ },
+ {
+  "text": "Yoimiya: *sigh* Pops has started telling his stories again..."
+ },
+ {
+  "text": "Yoimiya: Sorry about this \u2014 ever since Pops had his accident, his ears don't work too well."
+ },
+ {
+  "text": "You: Really? But for a moment there, it almost seemed like you were having a coherent conversation..."
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Much, much later, people eventually realized that if you grind certain minerals into dust, they burn with many beautiful colors."
+ },
+ {
+  "text": "Yoimiya: Pops \u2014 Pops wait!"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Eh? What is it?"
+ },
+ {
+  "text": "Yoimiya: Did they deliver those firework materials that we ordered yet?"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Oh, yesterday's fireworks have all been delivered. So have the ones from the day before yesterday, and the ones from the day before that."
+ },
+ {
+  "text": "Yoimiya: No, Pops. I meant the materials. The materials that we ordered. They should have arrived today."
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Today's fireworks are almost ready, too, don't you worry! Hehe, your old man's skills are still as sharp as ever."
+ },
+ {
+  "text": "Yoimiya: No\u2014 Pops, the materials! The raw materials for making fireworks."
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Sorry?"
+ },
+ {
+  "text": "Yoimiya: Ma-te-ri-als!"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: The materials aren't here yet. The couriers did come over to explain why, but... Well, I think they did, but I couldn't quite hear what they were saying..."
+ },
+ {
+  "text": "Yoimiya: No worries, as long as we know, that's fine. We can just make them later. Oh, uh \u2014 don't forget to take the goods in when they deliver them, okay, Pops?"
+ },
+ {
+  "text": "Naganohara Ryuunosuke: Of course, leave it to me."
+ },
+ {
+  "text": "Yoimiya: Oh, sorry if we were a little loud. it's always the way, though \u2014 it's like that every time I need to ask pops something."
+ },
+ {
+  "text": "You: Still, he seems like a warm and friendly person."
+ },
+ {
+  "text": "Yoimiya: Uh-huh, that's my pops! He's a good person, alright. Everyone around here respects him."
+ },
+ {
+  "text": "You: I think the two of you are quite similar."
+ },
+ {
+  "text": "Yoimiya: Hehe, I get told that a lot. Because my pops is deaf, he never argues with anyone, and never contradicts them. He just listens cheerfully. When I was little, I thought it was because he really understood me, and agreed with whatever I had to say. So, I'd tell my pops everything. Eventually, I realized that the reason he was like that was that he's deaf. But I still tell him stories every day."
+ },
+ {
+  "text": "You: Huh? Why would you do that?"
+ },
+ {
+  "text": "Yoimiya: It just makes me happy to see him smile. And it keeps him from being lonely, right? Anyway. More importantly right now, the fireworks show is right around the corner and the materials still haven't arrived. We need to think of an alternative..."
+ },
+ {
+  "text": "???: Um, Yoimiya, is that you?"
+ },
+ {
+  "text": "Yoimiya: Wah! Oh, you scared me there! I thought I told you to be more careful before you speak?"
+ },
+ {
+  "text": "???: S\u2014Sorry..."
+ },
+ {
+  "text": "Yoimiya: Hold on, I'm coming over."
+ },
+ {
+  "text": "Yoimiya: No one's looking. Okay, you can come out now. Uh, come around the side."
+ },
+ {
+  "text": "Yoimiya: *sigh* We're lucky that no one from the Tenryou Commission was around, otherwise, we'd all be in big trouble."
+ },
+ {
+  "text": "???: Sorry, I guess I was a little rash. But when I heard you come back, I just..."
+ },
+ {
+  "text": "Yoimiya: Don't worry Sakujirou. So far, at least, everything is going according to plan. We're going to look for firework materials shortly. While we're out, we'll sort out the boat situation for you, as promised."
+ },
+ {
+  "text": "Sakujirou: Thank you for all your help."
+ },
+ {
+  "text": "You: Who is this? And why is he hiding in your house?"
+ },
+ {
+  "text": "Yoimiya: He's one of our old customers. He came back to Inazuma from the outside world not long ago. While he was smuggling himself in, the Tenryou Commission found him and put out a warrant for his arrest..."
+ },
+ {
+  "text": "You: An arrest warrant!?"
+ },
+ {
+  "text": "Yoimiya: Shhhh, keep it down! We don't want to draw any unwanted attention. If Sakujirou is caught, there's no knowing what crimes they could charge him with. All we can do is find him a boat and send him out of Inazuma again."
+ },
+ {
+  "text": "You: But isn't there a thunderstorm out in the ocean?"
+ },
+ {
+  "text": "Yoimiya: Yeah, we know it's going to be dangerous, but there aren't many other options left."
+ },
+ {
+  "text": "You: What if the boat capsizes? Uhh! Drowning is really scary! If things are this bad, couldn't you have just not come back in the first place?"
+ },
+ {
+  "text": "Sakujirou: Well... There is something I felt I had to do... But as soon as I got back, I started hearing about all these unbelievable changes. I had my mind up, originally, but now I'm not sure anymore... I didn't want to cause any trouble for Yoimiya or Mr. Ryuunosuke, but I'm very grateful to them for taking me in."
+ },
+ {
+  "text": "Yoimiya: Hey, no worries, you're more than welcome. Remember what I said? As long as you've got that little piece of paper, you'll always be a valued customer of the Naganoharas."
+ },
+ {
+  "text": "You: Little piece of paper...? I remember something about that. Like the paper slips you gave to the kids?"
+ },
+ {
+  "text": "Yoimiya: Yep, the same paper slips as the ones I gave to the kids earlier. Whenever a customer orders fireworks for a commemorative event, we always include a little paper slip with the goods. Only people from my inside my family can understand what's written on it. It's the recipe for the fireworks they ordered. If someone shows a Naganohara that paper slip, we guarantee we can make the exact same firework as the original one they purchased, whether it's ten or even a hundred years later."
+ },
+ {
+  "text": "You: Wow, that is so awesome!"
+ },
+ {
+  "text": "Yoimiya: It's a family tradition. All our regular customers know about this."
+ },
+ {
+  "text": "Sakujirou: The slip I have is from back when my parents ordered fireworks from Mr. Ryuunosuke. Now I think about it, it must be nearly 20 years ago. *sigh* Who would have thought that things would turn out the way they have..."
+ },
+ {
+  "text": "Yoimiya: It'll be fine. Escaping in a boat is just a last resort for if there's no other way. I'll still try and come up with a different solution, because it'd be much better if you could stay in Inazuma. Whatever their reasons might be, if our customers come to us looking for help, we're not about to leave them high and dry."
+ },
+ {
+  "text": "Sakujirou: Thank you... This way, I'll still have some time to consider my options..."
+ },
+ {
+  "text": "Yoimiya: Alright, well, let's not stay out here in the open for too long. Hurry up and get back inside. I'll let you know as soon as I have an update for you."
+ },
+ {
+  "text": "Yoimiya: *sigh* It's a shame, they still wouldn't give him a permit, even though he was born and raised in Inazuma. Speaking of, you guys only got here recently, how did you manage to get a permit?"
+ },
+ {
+  "text": "You: We went through a long bureaucratic process on Ritou. Even then, we only got through thanks to some help from Miss Hiiragi Chisato of the Kanjou Commission."
+ },
+ {
+  "text": "Yoimiya: I see, so you had big shots helping you. I guess that won't be of much help to Sakujirou. *sigh* I just wish the commissions could be a little more flexible. I bet nowhere else you've been is quite like Inazuma, huh?"
+ },
+ {
+  "text": "You: It's true. Each archon has their own idea on how to run things."
+ },
+ {
+  "text": "Yoimiya: *sigh* Well, no matter what, I have to find a way to help him. I'm sorry, I invited you to come and watch the fireworks, but now I have to run a few errands. You don't have to join me if you don't want to. I can go sort out the firework materials and the boat by myself, and then you can come and meet me back at the house later."
+ },
+ {
+  "text": "You: I don't mind coming along. I'm interested to learn how fireworks are made."
+ },
+ {
+  "text": "Yoimiya: Oh, cool! Then let's start with Sakujirou's boat. We can chat along the way!"
+ },
+ {
+  "text": "Yoimiya: It's Matsuzaka and his friends! Let's ask them!"
+ },
+ {
+  "text": "Matsuzaka: Hi, Yoimiya! Are the weapons to scare away the Great Mujina Youkai ready yet?"
+ },
+ {
+  "text": "Yoimiya: Oh, Mr. Ryuunosuke is making them right now. You can go collect them from my house later."
+ },
+ {
+  "text": "Saika: Uh... Aren't you gonna play with us, Yoimiya?"
+ },
+ {
+  "text": "Yoimiya: I'm sorry, I have something important to do right now. I'll be back later on. ...But I'll bring you guys some candy next time! The extra-sweet candy, the one you guys love."
+ },
+ {
+  "text": "Iwao: Yay-ay! We're gonna get candy, woohoo."
+ },
+ {
+  "text": "Yoimiya: Also, I wanted to ask you guys something. Did you see a bunch of scary-looking men come by here, at all?"
+ },
+ {
+  "text": "Saika: Yep, we did! It looked like they were chasing someone!"
+ },
+ {
+  "text": "Iwao: Are they trying to catch a monster, too?"
+ },
+ {
+  "text": "Yoimiya: No, don't worry. It's all just a big misunderstanding. Be good kids and stay out of trouble, alright? Stay in the city for now, and I'll come play with you after the fireworks start."
+ },
+ {
+  "text": "Yoimiya: It looks like this is the right way. Let's keep going! If Sakujirou still hasn't made up his mind, I guess I'll have to step in..."
+ },
+ {
+  "text": "Yoimiya: Look, there are people from the Tenryou Commission over there! That must be them."
+ },
+ {
+  "text": "Yoshitaka: Sorry, official business. I can't let you pass."
+ },
+ {
+  "text": "Yoimiya: Sakujirou and Keisuke are up ahead, right? We need to talk to them about something."
+ },
+ {
+  "text": "Yoshitaka: Didn't you hear me? You're not getting past."
+ },
+ {
+  "text": "Yoimiya: Ugh, what a nuisance! Well, you've only got yourself to blame!"
+ },
+ {
+  "text": "Yoshitaka: How dare you impede the work of the Tenryou Commission! You will be punished for your actions! There is nowhere you can escape justice, not even at the edges of the world!"
+ },
+ {
+  "text": "Yoimiya: Look at that \u2014 the one with the loudest mouth had the fastest feet. We can't waste any more time on these guys. Let's push on, they should be just ahead."
+ },
+ {
+  "text": "Imatani Keisuke: You will return with me to the Tenryou Commission to await your sentencing. The one who made this boat will also be punished."
+ },
+ {
+  "text": "Yoimiya: Wait! It doesn't have to end like this! Don't you have anything else to say to one another!?"
+ },
+ {
+  "text": "Imatani Keisuke: Hey, I know you. You're Naganohara's girl, who makes the fireworks... Huh. I know you like to get involved in other people's business, but stay out of this. It does not concern you."
+ },
+ {
+  "text": "Sakujirou: It's okay, Yoimiya. The past is the past."
+ },
+ {
+  "text": "Yoimiya: Then why did you risk life and limb to get yourself back into Inazuma!? And why were you so reluctant to leave after you got here!? I'll tell you why, this is why! This is the chance you've been waiting for, to talk everything through!"
+ },
+ {
+  "text": "Imatani Keisuke: I have nothing to say to him. He's a criminal, I work for the Tenryou Commission. There was never any room for discussion. Out of respect for the friendship we once had, I gave him a chance to fight for his freedom. But his skills with the sword are as disappointing now as they ever were."
+ },
+ {
+  "text": "Yoimiya: What are you talking about? And just who do you think you're kidding!? You left all your subordinates back there to guard the road, making sure no one else followed you here. Seems to me like you were hoping for a chance to talk. I can see it in your faces. You both have so much to say... and you're just gonna choose to keep it all inside?"
+ },
+ {
+  "text": "Imatani Keisuke: ... Don't flatter yourself. What would you know?"
+ },
+ {
+  "text": "Sakujirou: Yoimiya, leave it. It was just my wishful thinking."
+ },
+ {
+  "text": "Yoimiya: No, I won't leave it! I will not stand by and watch when you haven't even done anything! Keisuke, you seem to like settling things with a duel. So let's do it your way! I challenge you to a duel! If I win, then you need to say everything that's in your heart. No more running from your feelings! And the same goes for you, Sakujirou! If I win, you will tell Keisuke exactly why you came back. No matter what the consequences are. You have to tell him everything! If you don't say anything now, you may never have another chance!"
+ },
+ {
+  "text": "Imatani Keisuke: And if you lose?"
+ },
+ {
+  "text": "Yoimiya: Then I'll admit to collaborating with Sakujirou and accept the Tenryou Commission's punishment!"
+ },
+ {
+  "text": "Imatani Keisuke: Young lady, you are just as obstinate as Sakujirou was back then. Why were you so convinced that we had things to say to each other?"
+ },
+ {
+  "text": "Yoimiya: Because... Sakujirou may not have told me about you when he came back, but he did order a firework from me. Then, your parents told me what happened between you when you were younger. Once I'd heard the story, I realized that the firework meant something special to you both. And that's why I simply refuse to believe that you have nothing to say to each other! Nobody sets off a firework to feel lonely, do they..."
+ },
+ {
+  "text": "Imatani Keisuke: It's the one that Sakujirou planned on using for his escape. I asked Yoshitaka and the others to transport it here, citing the Temporary Contraband Storage clause. Forcing Sakujirou to this spot was also something I had planned all along. It's just like you said, Yoimiya. Even thought I hadn't fully made up my mind, my actions betrayed my intent..."
+ },
+ {
+  "text": "Yoimiya: But I think you did the right thing. And look, now you've managed to resolve the grievance in your heart by talking about it."
+ },
+ {
+  "text": "Imatani Keisuke: I understand now, thank you. I didn't know you were quite so perceptive \u2014 you saw right into what I was thinking."
+ },
+ {
+  "text": "Yoimiya: Hehe, that's only because I know your parents so well. They're both really nice people, so I didn't think the apple would fall too far from the tree."
+ },
+ {
+  "text": "Imatani Keisuke: I had heard that there was a new Naganohara running things these days. A little loud and reckless, maybe but... You live up to the family name. By the way, Naganohara Fireworks can reproduce the firework that the two of us set off back then, right Would you be able to make one for me?"
+ },
+ {
+  "text": "Yoimiya: Sorry, no can do. Without the slip for reference, I can't make the same one again, and I'm afraid Sakujirou is the one with the slip."
+ },
+ {
+  "text": "Imatani Keisuke: Ah, I see... Never mind, then."
+ },
+ {
+  "text": "Yoimiya: Hehe, don't get too down just yet, though \u2014 I mentioned that Sakujirou ordered a firework from me, didn't I? I can't make another one, but I'm guessing Sakujirou probably won't be needing his anymore... It'd be a shame for it to go to waste, so I'll make an exception and let you set it off instead."
+ },
+ {
+  "text": "Imatani Keisuke: ...Thank you very much."
+ },
+ {
+  "text": "Yoimiya: No worries. And don't miss out on the start of the fireworks show."
+ },
+ {
+  "text": "You: Yoimiya, the way you took command of that whole situation was amazing!"
+ },
+ {
+  "text": "Yoimiya: What can I say \u2014 I like to talk. I'm a strong believer in the power of words. If you're not willing to communicate, then the problem just sits there. If you just keep staring at it without doing anything, eventually you'll watch every last opportunity to resolve it slip away before your eyes. Sakujirou and Keisuke can't turn back the clock in their relationship, but... that's no reason to live with remorse. Anyway, follow me. I'll bring you to the perfect place to watch the fireworks. My pops will set off the firework that I wanted to give to you."
+ },
+ {
+  "text": "Yoimiya: Ahh, that was amazing. It was so beautiful I could weep. Uh, I didn't actually cry, though, right? I just feel a bit misty-eyed."
+ },
+ {
+  "text": "You: It was very pretty. Once again, the Naganoharas live up to their name."
+ },
+ {
+  "text": "Yoimiya: Oh, remember that big one that went up first? The gold one? That's the one I had pops make for you."
+ },
+ {
+  "text": "You: Oh, Paimon saw it! It was one of the best ones, they won't forget that any time soon!"
+ },
+ {
+  "text": "Yoimiya: Haha, that's what I wanted to hear. I was hoping it would leave a deep impression on you guys. No matter where your journey takes you, and no matter what hardships might lie ahead, I hope you'll always be able to look back fondly on the fireworks you saw tonight. I believe that as time goes by, this firework will only grow brighter and more beautiful in your heart. Oh, and also, you're technically my customers now. Here, this is your paper slip. If you ever wanna see that golden firework again, just come and see me."
+ },
+ {
+  "text": "You: Thank you for the firework. Thank you for your kindness. You know, Yoimiya, you seemed to turn into a completely different person during the fireworks. You were so quiet, and it was like you couldn't hear anything it all."
+ },
+ {
+  "text": "Yoimiya: Oh, I could hear you. I just have a habit of being silent while I'm watching fireworks. Quietly watching something you made with your own hands rise into the sky, it feels like a sacred ceremony to me. You asked me what fireworks mean to me, right?"
+ },
+ {
+  "text": "You: Yup! Well, for Kouichi, who built that boat for us, and his friend, Third Sis, fireworks commemorate friendship. For Keisuke's parents, they commemorate marriage. And for Keisuke and Sakujirou, they were commemorating... hmm. Unwavering beliefs, right? Oh yeah, right! Beliefs!"
+ },
+ {
+  "text": "Yoimiya: As for me... Hehe, to be honest, even though I've thought about it countless times before, I still haven't found an answer."
+ },
+ {
+  "text": "You: Seriously? Huh... Paimon was expecting something deep and philosophical."
+ },
+ {
+  "text": "Yoimiya: Well, no one has ever asked me this before, so I've never really settled on an answer. It was by chance that I happened to be born into the Naganohara family, so it was by chance that I ended up learning this craft from my pops. It's also by chance that I've met so many people, learned so many things, and discovered that people associate watching fireworks with the things that are most precious to them. Fireworks that disappear in a flash of light are probably the furthest thing away from the eternity that our Shogun desires. But people's feelings don't just disappear, and it's those feelings that give fireworks their purpose. If nobody wanted to watch fireworks, then they wouldn't exist."
+ },
+ {
+  "text": "You: That's another kind of eternity."
+ },
+ {
+  "text": "Yoimiya: Also, consider this: You have to have the Naganoharas, because so many people are emotionally invested in the existence of fireworks. If we didn't exist, their wishes would go unfulfilled, wouldn't they? You know, Traveler, I don't really think about complicated things like this very often... But I'm proud that I was born into the Naganohara family, and have the chance to make so many pretty fireworks."
+ },
+ {
+  "text": "Yoimiya: I think I'll stay here for a bit longer. The show is still not quite over in my heart. Oh, but if you wanted to chat, I'll happily oblige."
+ },
+ {
+  "text": "You: What do you want to do afterward?"
+ },
+ {
+  "text": "Yoimiya: Matsuzaka and the others are still waiting for me so we can go hunt down the Great Mujina Youkai. I'm like a big sister to them, so I can't go back on my word. Also, I want to go and ask everyone what they thought of the fireworks. And over the next few days, I'd also like to thank everyone for their support. That includes you and Paimon, too, of course."
+ },
+ {
+  "text": "You: Are fireworks expensive?"
+ },
+ {
+  "text": "Yoimiya: For you guys... I'll do it for free! I did kind of force it on you, after all. Not to mention that I dragged you along with me and gave you all sorts of trouble along the way. Hehe, I'd feel bad if I charged you any Mora."
+ },
+ {
+  "text": "You: Are you sure? I feel bad..."
+ },
+ {
+  "text": "Yoimiya: It's fine. ...Look, how about we make a deal: After you find your sister, tell her to come to Naganohara Fireworks for all her fireworks needs. That way, I'll get another customer. Sound fair? Also, it'd be nice to meet her."
+ },
+ {
+  "text": "You: What if the Tenryou Commission causes you more trouble..."
+ },
+ {
+  "text": "Yoimiya: I'll kick their butts again! Hahaha, I'm joking. Didn't I tell you that my family deal with the Commissions quite a bit? We have an easy enough time of it. At the worst, we'd have to apologize, smile, and pay a fine. It wouldn't be the end of the world. You two should be careful, though. Without the same connections, you can't afford to be as reckless as me, hee-hee."
+ },
+ {
+  "text": "Yoimiya: Wow, is that an open-air hot spring I see? Amazing~! There's no better feeling than jumping into a hot spring when you're done with work for the day! Do you wanna join me? Relaxing in a hot spring, chatting away, ahh, it's one of the greatest feelings!"
+ },
+ {
+  "text": "You: Hi there! Want to kill some time?"
+ },
+ {
+  "text": "Yoimiya: Hey, it's you, Traveler! How are you doing? If you want to pass the time, you can't go wrong hanging out with me."
+ },
+ {
+  "text": "You: How do you like it here?"
+ },
+ {
+  "text": "Yoimiya: Pretty good! I'm surprised how awesome your place is! This is an adeptus relic from Liyue, right? It's incredible. I thought you were joking when you asked me to get into this pot. I had no idea what to say, I didn't know if I should object or just follow along..."
+ },
+ {
+  "text": "You: What was your objection going to be?"
+ },
+ {
+  "text": "Yoimiya: Something like, \"Are you blind? I can't squeeze into that!\" Haha, Paimon told me that she had the same reaction when she first saw the pot. If she couldn't get in, there would be no chance for me."
+ },
+ {
+  "text": "You: What would you have said to humor me?"
+ },
+ {
+  "text": "Yoimiya: Like, \"Let me send over 'Tarou the Goldfish,' the most trusty fish in my aquarium, to accompany you!\" I'm sure it'll be able to get in. It's a goldfish after all. Who would have thought that a little push from you, and poof \u2014 we're in here! A wide open view, fresh air... It's such a nice place!"
+ },
+ {
+  "text": "You: I'm glad you like it."
+ },
+ {
+  "text": "Yoimiya: Of course I like it. I could easily live here forever. *sigh* Maybe I can open a second \"Naganohara\" here? You can invite all of your friends to see the fireworks. Consider it a gift from me to you!"
+ },
+ {
+  "text": "You: Do you want to chat?"
+ },
+ {
+  "text": "Yoimiya: Sure, you know I love to talk. Let me think, is there anything interesting going on these days... Ah, right. You've got such a large piece of paradise here. Do you have any plans for it, you know, besides just living here? Ever thought about building a parlor or a show room? Or maybe a training ground?"
+ },
+ {
+  "text": "You: I'd love to do some business like you."
+ },
+ {
+  "text": "Yoimiya: Wha\u2014? There might have been a slight misunderstanding, you see, my family's business is not the usual kind of business. I know merchants in Liyue are really good at making Mora, they're experts at landing deals both big and small. However, our family's customers are mostly regulars, so we put most of our focus on those relationships. My pops and I, we mainly do business so that we won't let everyone down."
+ },
+ {
+  "text": "You: I want to build a garden."
+ },
+ {
+  "text": "Yoimiya: Wow, good idea! That sounds really interesting. I want to help. If you need anything, just tell me. If it can be found in Inazuma, I can get it for you. Thanks to the family business, I've got tons of connections. Haha! Well, I guess I can't get you the stars, or the moon. But pretty much anything else. Anyway, when it's finished, let me know. I'll set off some fireworks to celebrate."
+ },
+ {
+  "text": "You: What would you build if you were me?"
+ },
+ {
+  "text": "Yoimiya: Me?... Hehe, I'd build a playground! With toys everywhere! They'd be flashing, moving, and spinning. Also, tasty snacks for whenever I'm hungry! Living in a world like that would be a dream come true!"
+ },
+ {
+  "text": "You: I'll think about it."
+ },
+ {
+  "text": "Yoimiya: No, no. No need to seriously consider it. It's just a little fantasy of mine. But... I'm happy to hear you say that. A playground... Ahh, how wonderful."
+ },
+ {
+  "text": "You: Anything you want to do?"
+ },
+ {
+  "text": "Yoimiya: I want to know more about youuuu! I've heard people everywhere tell tales of your heroics, and I've seen it first-hand adventuring with you. But the more I learn, the more curious I become \u2014 what makes you so special? There is always a reason for everything. For example, I like to talk because when I was a kid, Pops really seemed to enjoy listening to me. I like fireworks because creating incredible fireworks makes me feel so proud of my work. So what's there for you?"
+ },
+ {
+  "text": "You: There is someone I want to see."
+ },
+ {
+  "text": "Yoimiya: So that's what drives you. And you don't want your reunion to be a disappointing one, do you? Wow, I'm really impressed. Honestly, I envy you! I'll help you. No matter where it is, you must be reunited!"
+ },
+ {
+  "text": "You: There are people I want to help."
+ },
+ {
+  "text": "Yoimiya: So that's what motivates you. You don't want to see anyone suffer. You are like a storybook hero, so awesome. Hmm, that means I'm friends with a hero, doesn't it? I'll support you with all I've got, so go ahead and write the rest of your story! Hehe, sorry, I'm getting too excited. But I've decided, I want to retrace your path! Starting from Mondstadt, to Liyue, and then to Inazuma... I will go see the sights you've seen and meet the people you've come across. That's what one has to do if they want to get to know someone completely!"
+ },
+ {
+  "text": "You: Isn't that a bit much?"
+ },
+ {
+  "text": "Yoimiya: Sorry, I don't mean to put any pressure on you. I was just, well... how should I put it? Simply, I... I want to know more about youuuu!"
+ },
+ {
+  "text": "You: Good morning, Yoimiya."
+ },
+ {
+  "text": "Yoimiya: Morning, Traveler What a nice day! Let's go have some fun!"
+ },
+ {
+  "text": "You: Good night, Yoimiya."
+ },
+ {
+  "text": "Yoimiya: Hehe, night. Sweet dreams, Traveler I hope you dream about my fireworks. Yes! This is the kind of atmosphere I live for, I absolutely love it! I'm super impressed, it's pretty amazing that you managed to do this place up like a shopping street. Is there a Naganohara Fireworks here, too? I wanna go find it! Come on, come with me! After all the effort you've put into this place, we should have some fun here! Wow, is that an open-air hot spring I see? Amazing~! There's no better feeling than jumping into a hot spring when you're done with work for the day! Do you wanna join me? Relaxing in a hot spring, chatting away, ahh, it's one of the greatest feelings!"
+ }
+]
